@@ -1,0 +1,2001 @@
+account_id,accountype,opendate,status,customer_id
+1,Current,2020-07-18,Active,727
+2,Savings,2025-07-21,Active,298
+3,Current,2022-11-22,Inactive,729
+4,Fixed Deposit,2024-09-19,Closed,654
+5,Savings,2024-08-26,Inactive,521
+6,Savings,2023-10-08,Active,206
+7,Savings,2019-12-03,Active,506
+8,Savings,2017-02-05,Active,587
+9,Current,2020-07-12,Active,565
+10,Savings,2019-10-20,Active,89
+11,Savings,2024-02-10,Active,735
+12,Fixed Deposit,2017-07-02,Active,421
+13,Current,2022-05-11,Inactive,76
+14,Savings,2021-03-17,Closed,658
+15,Savings,2025-05-31,Active,697
+16,Fixed Deposit,2019-05-25,Active,900
+17,Fixed Deposit,2025-06-04,Active,187
+18,Savings,2020-05-17,Active,933
+19,Savings,2018-06-09,Inactive,531
+20,Savings,2019-07-31,Active,166
+21,Current,2022-01-05,Closed,231
+22,Current,2025-01-25,Closed,532
+23,Current,2025-05-21,Inactive,257
+24,Savings,2022-06-13,Active,565
+25,Current,2025-01-06,Active,311
+26,Fixed Deposit,2026-02-08,Active,515
+27,Fixed Deposit,2025-09-30,Active,965
+28,Fixed Deposit,2018-09-13,Active,675
+29,Fixed Deposit,2021-05-05,Inactive,620
+30,Current,2018-06-02,Inactive,578
+31,Savings,2024-07-16,Inactive,30
+32,Savings,2025-06-19,Active,657
+33,Fixed Deposit,2016-04-03,Active,216
+34,Fixed Deposit,2023-02-01,Active,655
+35,Savings,2025-07-14,Active,643
+36,Fixed Deposit,2018-06-13,Active,980
+37,Current,2021-11-14,Active,825
+38,Fixed Deposit,2018-12-20,Active,465
+39,Savings,2024-03-17,Active,162
+40,Current,2019-12-31,Active,476
+41,Savings,2019-02-22,Active,148
+42,Current,2016-04-05,Inactive,327
+43,Fixed Deposit,2018-09-27,Closed,354
+44,Current,2022-10-17,Active,380
+45,Fixed Deposit,2025-08-11,Active,327
+46,Savings,2023-04-03,Active,274
+47,Current,2020-07-29,Active,100
+48,Savings,2024-11-06,Active,394
+49,Fixed Deposit,2022-01-21,Active,986
+50,Savings,2025-03-16,Inactive,957
+51,Fixed Deposit,2021-05-29,Inactive,195
+52,Savings,2023-11-13,Active,528
+53,Current,2024-08-20,Active,316
+54,Current,2024-07-05,Active,968
+55,Current,2022-07-24,Active,990
+56,Savings,2022-04-20,Active,362
+57,Savings,2022-11-27,Active,507
+58,Fixed Deposit,2024-06-24,Inactive,670
+59,Fixed Deposit,2024-12-05,Active,550
+60,Savings,2020-04-08,Inactive,442
+61,Savings,2023-11-03,Inactive,745
+62,Current,2021-05-19,Inactive,375
+63,Savings,2021-05-11,Active,584
+64,Fixed Deposit,2026-01-25,Active,567
+65,Current,2018-07-19,Active,517
+66,Current,2024-08-14,Inactive,287
+67,Fixed Deposit,2018-10-20,Active,122
+68,Savings,2023-10-07,Closed,404
+69,Current,2023-06-16,Inactive,348
+70,Fixed Deposit,2022-05-15,Closed,774
+71,Savings,2023-11-26,Active,522
+72,Current,2023-04-17,Active,47
+73,Savings,2023-11-29,Active,342
+74,Current,2022-11-21,Active,153
+75,Fixed Deposit,2025-03-13,Inactive,144
+76,Current,2021-09-15,Closed,327
+77,Savings,2025-12-06,Active,632
+78,Fixed Deposit,2025-11-23,Inactive,608
+79,Current,2021-04-12,Active,522
+80,Fixed Deposit,2016-06-23,Active,577
+81,Current,2019-10-06,Active,18
+82,Current,2020-03-05,Active,113
+83,Current,2019-10-03,Active,816
+84,Fixed Deposit,2025-12-25,Inactive,645
+85,Savings,2019-01-26,Active,272
+86,Fixed Deposit,2017-09-27,Inactive,795
+87,Fixed Deposit,2017-03-17,Active,739
+88,Savings,2022-03-16,Active,175
+89,Fixed Deposit,2025-08-30,Active,635
+90,Current,2019-04-24,Active,698
+91,Savings,2017-10-14,Active,971
+92,Fixed Deposit,2016-11-17,Active,20
+93,Current,2023-03-23,Active,156
+94,Current,2017-01-10,Active,421
+95,Fixed Deposit,2017-02-27,Inactive,943
+96,Current,2023-12-31,Inactive,754
+97,Fixed Deposit,2026-01-22,Active,142
+98,Fixed Deposit,2024-02-25,Active,333
+99,Fixed Deposit,2021-02-01,Active,386
+100,Current,2018-12-08,Closed,471
+101,Fixed Deposit,2020-06-30,Active,363
+102,Fixed Deposit,2022-02-22,Inactive,739
+103,Fixed Deposit,2024-05-28,Active,710
+104,Current,2020-06-12,Active,197
+105,Savings,2019-10-30,Active,306
+106,Savings,2024-08-27,Closed,305
+107,Current,2020-06-03,Inactive,707
+108,Fixed Deposit,2024-02-03,Active,492
+109,Current,2024-05-31,Active,957
+110,Fixed Deposit,2021-01-04,Active,125
+111,Fixed Deposit,2020-05-26,Active,389
+112,Current,2019-12-28,Inactive,978
+113,Savings,2023-10-30,Active,295
+114,Fixed Deposit,2016-05-31,Active,947
+115,Current,2016-12-01,Active,766
+116,Current,2024-09-20,Active,848
+117,Fixed Deposit,2020-12-28,Active,576
+118,Fixed Deposit,2019-02-21,Active,112
+119,Fixed Deposit,2019-01-11,Inactive,246
+120,Savings,2018-06-23,Active,927
+121,Fixed Deposit,2020-12-24,Active,239
+122,Savings,2019-12-23,Active,339
+123,Fixed Deposit,2019-05-20,Active,698
+124,Savings,2021-05-31,Active,564
+125,Savings,2019-10-20,Active,958
+126,Current,2025-01-29,Active,205
+127,Current,2024-12-08,Active,662
+128,Savings,2017-02-03,Closed,92
+129,Fixed Deposit,2024-09-02,Active,548
+130,Fixed Deposit,2022-03-15,Inactive,960
+131,Savings,2018-01-04,Closed,180
+132,Current,2018-01-17,Inactive,181
+133,Savings,2023-05-29,Closed,407
+134,Current,2017-01-28,Active,767
+135,Current,2022-07-24,Inactive,10
+136,Current,2024-04-28,Active,110
+137,Current,2021-06-29,Active,657
+138,Fixed Deposit,2016-09-21,Active,911
+139,Savings,2025-06-19,Inactive,480
+140,Current,2019-10-14,Active,116
+141,Current,2019-02-22,Active,470
+142,Fixed Deposit,2019-12-06,Active,191
+143,Savings,2020-05-05,Inactive,810
+144,Current,2019-12-10,Active,776
+145,Savings,2025-12-30,Active,877
+146,Fixed Deposit,2025-05-26,Inactive,847
+147,Current,2025-01-13,Active,89
+148,Current,2021-08-30,Active,190
+149,Savings,2020-10-25,Active,959
+150,Savings,2017-12-23,Active,393
+151,Savings,2023-02-25,Active,274
+152,Current,2021-11-15,Active,741
+153,Fixed Deposit,2025-01-27,Active,670
+154,Current,2024-11-16,Active,64
+155,Fixed Deposit,2017-02-19,Active,315
+156,Savings,2018-02-12,Active,515
+157,Fixed Deposit,2020-12-02,Inactive,707
+158,Savings,2024-07-05,Active,964
+159,Current,2016-06-30,Active,227
+160,Savings,2020-01-13,Closed,490
+161,Savings,2018-08-18,Active,621
+162,Current,2026-01-19,Active,563
+163,Current,2024-03-19,Inactive,822
+164,Fixed Deposit,2023-04-18,Inactive,781
+165,Savings,2021-10-08,Active,611
+166,Savings,2022-06-27,Active,541
+167,Fixed Deposit,2017-12-19,Active,940
+168,Fixed Deposit,2023-06-03,Active,849
+169,Fixed Deposit,2016-03-02,Closed,208
+170,Fixed Deposit,2017-01-10,Active,169
+171,Current,2018-09-22,Inactive,453
+172,Savings,2017-06-04,Active,735
+173,Fixed Deposit,2022-07-01,Active,921
+174,Fixed Deposit,2025-11-09,Active,57
+175,Current,2023-07-16,Active,426
+176,Current,2026-01-06,Active,573
+177,Current,2018-10-09,Active,316
+178,Fixed Deposit,2024-03-07,Active,261
+179,Savings,2016-11-22,Inactive,593
+180,Savings,2024-05-23,Active,353
+181,Fixed Deposit,2018-02-20,Active,62
+182,Savings,2018-09-09,Closed,484
+183,Savings,2018-04-20,Active,185
+184,Savings,2019-10-24,Inactive,747
+185,Fixed Deposit,2018-09-17,Closed,384
+186,Current,2021-08-15,Active,940
+187,Current,2019-10-08,Active,700
+188,Fixed Deposit,2022-09-05,Inactive,137
+189,Fixed Deposit,2021-07-02,Inactive,122
+190,Savings,2021-07-27,Closed,403
+191,Fixed Deposit,2023-10-02,Active,229
+192,Savings,2025-04-15,Inactive,306
+193,Current,2018-12-26,Active,558
+194,Current,2022-09-20,Active,844
+195,Savings,2020-05-31,Active,355
+196,Savings,2021-05-03,Active,960
+197,Fixed Deposit,2019-09-03,Inactive,33
+198,Fixed Deposit,2016-09-07,Active,785
+199,Savings,2018-10-22,Active,69
+200,Savings,2022-08-13,Active,458
+201,Fixed Deposit,2023-01-25,Active,894
+202,Savings,2025-11-10,Active,46
+203,Current,2018-03-07,Active,553
+204,Savings,2025-07-03,Inactive,795
+205,Savings,2019-09-12,Active,297
+206,Savings,2019-04-23,Inactive,750
+207,Fixed Deposit,2016-11-27,Active,613
+208,Fixed Deposit,2018-04-17,Inactive,243
+209,Current,2022-04-22,Inactive,677
+210,Fixed Deposit,2026-02-14,Active,308
+211,Current,2019-09-15,Active,972
+212,Fixed Deposit,2024-09-02,Inactive,934
+213,Savings,2025-12-18,Active,438
+214,Fixed Deposit,2018-11-05,Active,996
+215,Current,2024-08-29,Closed,688
+216,Current,2017-08-13,Inactive,327
+217,Fixed Deposit,2018-06-06,Active,153
+218,Current,2016-06-06,Active,773
+219,Fixed Deposit,2024-10-04,Active,870
+220,Savings,2018-09-02,Active,725
+221,Savings,2019-06-10,Inactive,937
+222,Savings,2022-09-09,Active,992
+223,Current,2024-11-01,Active,138
+224,Current,2023-03-20,Active,209
+225,Current,2019-03-13,Active,945
+226,Current,2020-02-25,Inactive,95
+227,Fixed Deposit,2016-03-26,Inactive,196
+228,Savings,2020-04-16,Active,690
+229,Fixed Deposit,2022-07-26,Active,895
+230,Savings,2018-08-28,Active,780
+231,Fixed Deposit,2025-02-02,Inactive,573
+232,Savings,2023-08-26,Active,891
+233,Current,2018-08-10,Active,931
+234,Savings,2017-09-29,Active,195
+235,Fixed Deposit,2020-07-29,Active,773
+236,Current,2023-04-09,Closed,713
+237,Fixed Deposit,2017-10-04,Inactive,407
+238,Savings,2021-01-13,Active,795
+239,Current,2019-06-24,Active,547
+240,Fixed Deposit,2020-10-19,Active,268
+241,Current,2020-05-18,Active,510
+242,Current,2020-05-29,Active,740
+243,Current,2023-03-14,Inactive,328
+244,Savings,2019-02-16,Active,424
+245,Savings,2024-03-26,Active,227
+246,Fixed Deposit,2020-07-29,Active,268
+247,Fixed Deposit,2024-11-04,Closed,594
+248,Fixed Deposit,2023-03-25,Active,157
+249,Savings,2022-11-05,Active,389
+250,Fixed Deposit,2021-11-01,Inactive,512
+251,Fixed Deposit,2021-09-01,Active,702
+252,Current,2019-12-07,Active,842
+253,Current,2025-01-04,Closed,658
+254,Fixed Deposit,2021-10-10,Active,173
+255,Fixed Deposit,2025-05-07,Inactive,174
+256,Savings,2024-02-29,Inactive,501
+257,Savings,2019-06-26,Closed,556
+258,Fixed Deposit,2016-05-14,Closed,537
+259,Savings,2018-02-10,Inactive,77
+260,Fixed Deposit,2023-06-17,Active,7
+261,Current,2025-07-24,Active,646
+262,Savings,2017-12-25,Active,155
+263,Savings,2019-09-02,Active,467
+264,Current,2021-02-16,Active,654
+265,Fixed Deposit,2020-06-21,Closed,935
+266,Current,2023-02-12,Active,17
+267,Savings,2025-01-31,Active,422
+268,Savings,2019-10-27,Active,740
+269,Current,2019-08-31,Active,294
+270,Savings,2016-12-17,Active,715
+271,Fixed Deposit,2020-02-09,Active,963
+272,Savings,2017-08-18,Active,99
+273,Fixed Deposit,2025-12-06,Active,197
+274,Fixed Deposit,2021-11-22,Active,835
+275,Current,2023-10-12,Active,407
+276,Savings,2022-09-01,Active,416
+277,Current,2024-04-17,Active,714
+278,Savings,2018-09-17,Active,848
+279,Savings,2019-08-28,Active,879
+280,Fixed Deposit,2025-05-12,Inactive,96
+281,Current,2021-05-31,Active,566
+282,Current,2023-09-28,Active,10
+283,Fixed Deposit,2017-01-15,Active,512
+284,Current,2018-01-29,Active,340
+285,Fixed Deposit,2018-07-29,Closed,998
+286,Savings,2025-07-09,Inactive,942
+287,Savings,2023-01-09,Active,923
+288,Fixed Deposit,2017-01-21,Inactive,487
+289,Current,2019-12-01,Active,77
+290,Fixed Deposit,2024-01-06,Closed,921
+291,Fixed Deposit,2018-03-27,Active,34
+292,Savings,2018-02-02,Closed,323
+293,Savings,2023-09-28,Closed,602
+294,Savings,2018-03-13,Inactive,730
+295,Current,2020-03-18,Closed,307
+296,Savings,2022-12-31,Active,581
+297,Current,2016-04-29,Active,554
+298,Current,2023-03-07,Active,758
+299,Savings,2019-07-02,Inactive,706
+300,Fixed Deposit,2019-07-17,Active,764
+301,Current,2020-10-16,Active,448
+302,Savings,2022-06-20,Inactive,349
+303,Fixed Deposit,2023-04-10,Inactive,978
+304,Fixed Deposit,2020-01-28,Active,793
+305,Current,2019-09-20,Active,280
+306,Current,2025-09-10,Active,365
+307,Fixed Deposit,2018-10-27,Closed,443
+308,Savings,2019-04-10,Active,677
+309,Current,2024-06-13,Active,634
+310,Current,2021-12-25,Inactive,731
+311,Savings,2021-11-10,Active,158
+312,Current,2024-09-10,Inactive,650
+313,Savings,2020-07-26,Inactive,325
+314,Current,2025-04-22,Active,6
+315,Current,2016-04-28,Active,780
+316,Current,2024-06-06,Active,90
+317,Savings,2025-06-08,Active,571
+318,Fixed Deposit,2020-04-03,Active,106
+319,Savings,2019-06-02,Active,568
+320,Savings,2017-05-02,Active,804
+321,Current,2025-09-12,Inactive,13
+322,Current,2024-02-09,Active,798
+323,Savings,2016-10-25,Inactive,573
+324,Savings,2020-12-21,Active,174
+325,Fixed Deposit,2017-10-17,Active,143
+326,Current,2022-01-29,Active,505
+327,Savings,2019-12-02,Active,446
+328,Current,2016-08-06,Active,496
+329,Savings,2025-09-09,Active,967
+330,Savings,2023-08-26,Inactive,508
+331,Fixed Deposit,2024-06-24,Active,469
+332,Savings,2017-08-04,Active,7
+333,Current,2019-12-30,Active,636
+334,Current,2020-08-13,Inactive,338
+335,Current,2016-04-13,Active,836
+336,Fixed Deposit,2024-08-31,Closed,140
+337,Current,2018-07-10,Active,971
+338,Fixed Deposit,2022-12-20,Active,322
+339,Savings,2025-01-12,Closed,992
+340,Current,2018-03-11,Active,712
+341,Fixed Deposit,2022-07-28,Active,590
+342,Savings,2021-08-14,Active,288
+343,Current,2024-05-10,Active,955
+344,Fixed Deposit,2016-06-20,Active,559
+345,Savings,2018-05-27,Active,564
+346,Savings,2018-10-06,Closed,473
+347,Fixed Deposit,2018-11-09,Active,817
+348,Current,2016-06-19,Inactive,71
+349,Current,2020-07-23,Active,143
+350,Fixed Deposit,2023-08-09,Active,259
+351,Fixed Deposit,2024-06-01,Active,434
+352,Current,2023-06-16,Active,613
+353,Current,2023-10-04,Active,548
+354,Fixed Deposit,2017-12-31,Closed,891
+355,Fixed Deposit,2021-03-22,Active,38
+356,Current,2018-03-25,Inactive,832
+357,Fixed Deposit,2018-07-02,Active,937
+358,Savings,2019-08-24,Active,255
+359,Fixed Deposit,2017-07-02,Active,171
+360,Fixed Deposit,2021-07-01,Active,577
+361,Fixed Deposit,2025-04-18,Active,410
+362,Current,2019-08-06,Closed,441
+363,Savings,2022-10-27,Active,265
+364,Savings,2023-07-18,Active,532
+365,Fixed Deposit,2020-10-11,Active,590
+366,Savings,2024-09-27,Active,401
+367,Current,2017-12-29,Inactive,603
+368,Fixed Deposit,2023-05-18,Active,354
+369,Savings,2020-03-24,Active,303
+370,Current,2024-07-08,Closed,88
+371,Savings,2020-07-05,Inactive,748
+372,Savings,2024-04-15,Active,352
+373,Current,2022-08-12,Inactive,534
+374,Current,2020-10-18,Active,100
+375,Current,2019-09-24,Inactive,464
+376,Current,2019-02-26,Active,46
+377,Fixed Deposit,2025-11-30,Active,870
+378,Current,2022-03-24,Active,694
+379,Savings,2016-04-21,Closed,759
+380,Savings,2020-07-19,Active,566
+381,Savings,2019-03-09,Active,437
+382,Current,2019-03-03,Active,415
+383,Fixed Deposit,2025-12-27,Active,656
+384,Fixed Deposit,2025-11-17,Active,30
+385,Fixed Deposit,2016-08-26,Active,203
+386,Current,2024-09-11,Active,399
+387,Savings,2021-06-13,Inactive,211
+388,Current,2017-03-23,Inactive,829
+389,Savings,2024-04-30,Active,819
+390,Fixed Deposit,2017-11-30,Active,334
+391,Savings,2016-05-10,Active,269
+392,Fixed Deposit,2018-10-30,Inactive,541
+393,Fixed Deposit,2017-12-14,Active,398
+394,Fixed Deposit,2024-07-11,Active,117
+395,Current,2025-03-05,Active,469
+396,Fixed Deposit,2022-08-30,Active,690
+397,Fixed Deposit,2017-07-01,Inactive,941
+398,Fixed Deposit,2020-04-29,Active,689
+399,Savings,2019-07-25,Active,245
+400,Current,2025-11-20,Active,383
+401,Fixed Deposit,2018-02-23,Active,398
+402,Current,2023-10-24,Active,589
+403,Current,2016-12-18,Active,499
+404,Fixed Deposit,2018-02-20,Active,942
+405,Fixed Deposit,2016-07-20,Closed,178
+406,Fixed Deposit,2021-01-05,Active,296
+407,Savings,2021-02-20,Active,863
+408,Current,2019-12-18,Active,887
+409,Current,2017-04-25,Closed,497
+410,Savings,2018-05-04,Active,394
+411,Fixed Deposit,2021-08-22,Active,507
+412,Current,2025-06-06,Active,426
+413,Fixed Deposit,2021-01-03,Inactive,501
+414,Savings,2023-01-07,Active,32
+415,Savings,2020-09-11,Active,282
+416,Savings,2021-08-12,Active,173
+417,Current,2025-02-10,Active,792
+418,Current,2023-08-03,Active,116
+419,Fixed Deposit,2017-03-05,Active,794
+420,Fixed Deposit,2022-04-03,Inactive,376
+421,Fixed Deposit,2020-09-13,Inactive,43
+422,Fixed Deposit,2019-01-04,Active,224
+423,Current,2023-05-06,Active,850
+424,Fixed Deposit,2021-04-10,Inactive,305
+425,Savings,2018-02-11,Active,357
+426,Savings,2019-09-10,Active,121
+427,Savings,2022-11-10,Active,756
+428,Fixed Deposit,2020-09-18,Active,882
+429,Fixed Deposit,2020-02-15,Active,439
+430,Savings,2024-12-22,Active,804
+431,Savings,2020-09-10,Inactive,825
+432,Savings,2016-05-29,Active,546
+433,Current,2017-02-22,Active,173
+434,Current,2020-12-29,Closed,300
+435,Current,2017-12-12,Active,976
+436,Fixed Deposit,2017-08-14,Closed,696
+437,Savings,2021-04-13,Active,769
+438,Current,2024-12-08,Closed,284
+439,Fixed Deposit,2021-05-24,Active,887
+440,Savings,2019-02-20,Active,729
+441,Current,2021-08-21,Inactive,780
+442,Fixed Deposit,2025-02-17,Active,146
+443,Fixed Deposit,2025-07-27,Active,643
+444,Current,2018-07-17,Active,78
+445,Fixed Deposit,2021-02-08,Inactive,788
+446,Savings,2024-10-17,Active,768
+447,Current,2016-12-09,Active,899
+448,Current,2024-04-08,Active,500
+449,Current,2023-04-13,Active,890
+450,Fixed Deposit,2023-10-12,Active,996
+451,Current,2024-09-08,Active,715
+452,Current,2021-11-09,Inactive,815
+453,Fixed Deposit,2023-02-24,Active,992
+454,Current,2025-04-24,Inactive,507
+455,Current,2023-07-18,Active,291
+456,Current,2026-02-08,Active,134
+457,Fixed Deposit,2022-06-26,Inactive,808
+458,Current,2021-04-18,Inactive,781
+459,Savings,2016-06-25,Active,642
+460,Current,2023-02-01,Active,952
+461,Savings,2024-10-04,Active,1
+462,Current,2024-07-12,Active,706
+463,Savings,2019-05-25,Inactive,310
+464,Savings,2017-02-27,Inactive,898
+465,Current,2021-04-25,Active,370
+466,Current,2019-04-23,Active,681
+467,Fixed Deposit,2017-01-28,Active,406
+468,Fixed Deposit,2019-11-15,Active,717
+469,Savings,2021-07-09,Active,94
+470,Fixed Deposit,2018-04-30,Active,219
+471,Current,2018-10-21,Active,608
+472,Savings,2018-12-22,Active,456
+473,Savings,2020-06-08,Active,352
+474,Savings,2024-08-31,Closed,433
+475,Fixed Deposit,2022-05-29,Active,73
+476,Savings,2024-11-18,Active,749
+477,Savings,2016-11-04,Active,377
+478,Current,2024-08-15,Active,793
+479,Savings,2021-07-11,Active,694
+480,Savings,2017-11-30,Active,577
+481,Savings,2019-02-24,Active,169
+482,Current,2017-10-06,Active,219
+483,Fixed Deposit,2023-04-15,Inactive,942
+484,Current,2023-04-08,Active,454
+485,Savings,2025-02-04,Active,103
+486,Savings,2017-08-28,Inactive,604
+487,Fixed Deposit,2025-03-26,Active,987
+488,Current,2025-10-01,Active,144
+489,Savings,2018-09-08,Active,87
+490,Savings,2016-10-28,Active,615
+491,Fixed Deposit,2021-11-19,Active,798
+492,Fixed Deposit,2017-12-13,Active,868
+493,Fixed Deposit,2017-11-11,Inactive,211
+494,Fixed Deposit,2020-08-17,Active,194
+495,Fixed Deposit,2017-04-21,Active,662
+496,Savings,2024-06-26,Inactive,813
+497,Savings,2018-11-24,Active,116
+498,Savings,2023-05-02,Active,609
+499,Savings,2019-12-19,Active,13
+500,Current,2018-10-12,Closed,136
+501,Current,2023-03-06,Inactive,583
+502,Current,2021-12-27,Active,700
+503,Savings,2019-03-26,Inactive,978
+504,Savings,2016-09-11,Active,70
+505,Savings,2017-10-06,Active,41
+506,Savings,2017-02-11,Closed,408
+507,Fixed Deposit,2019-10-14,Active,730
+508,Fixed Deposit,2025-03-13,Inactive,434
+509,Fixed Deposit,2023-12-30,Active,656
+510,Fixed Deposit,2020-03-13,Active,157
+511,Current,2019-05-17,Active,81
+512,Fixed Deposit,2016-04-01,Closed,998
+513,Savings,2024-11-21,Active,401
+514,Fixed Deposit,2025-12-13,Active,855
+515,Fixed Deposit,2021-06-02,Active,68
+516,Current,2018-02-19,Active,748
+517,Savings,2022-10-27,Active,89
+518,Current,2022-12-18,Active,627
+519,Fixed Deposit,2019-10-27,Active,683
+520,Fixed Deposit,2022-06-07,Active,180
+521,Savings,2017-05-08,Active,141
+522,Fixed Deposit,2024-06-14,Active,509
+523,Current,2024-07-21,Active,802
+524,Fixed Deposit,2023-07-28,Active,381
+525,Savings,2023-05-16,Inactive,895
+526,Current,2022-03-14,Inactive,121
+527,Savings,2019-06-02,Active,440
+528,Current,2023-10-13,Active,270
+529,Fixed Deposit,2025-05-04,Closed,643
+530,Savings,2018-07-27,Active,524
+531,Current,2016-05-25,Active,880
+532,Fixed Deposit,2016-11-26,Active,162
+533,Current,2021-09-29,Inactive,916
+534,Fixed Deposit,2020-10-07,Active,119
+535,Savings,2020-02-16,Inactive,3
+536,Savings,2018-09-11,Inactive,13
+537,Savings,2016-03-02,Active,373
+538,Current,2021-07-19,Closed,184
+539,Savings,2024-09-10,Active,936
+540,Fixed Deposit,2024-12-15,Inactive,430
+541,Savings,2021-02-06,Active,427
+542,Fixed Deposit,2022-11-11,Active,846
+543,Savings,2018-10-29,Active,123
+544,Fixed Deposit,2023-02-17,Active,54
+545,Savings,2018-02-26,Active,529
+546,Savings,2016-06-21,Closed,71
+547,Current,2021-10-20,Inactive,793
+548,Current,2024-01-22,Active,567
+549,Current,2017-01-12,Active,206
+550,Current,2023-12-05,Active,312
+551,Fixed Deposit,2019-03-10,Active,476
+552,Current,2016-03-07,Active,506
+553,Savings,2025-12-09,Inactive,560
+554,Savings,2024-12-15,Active,955
+555,Current,2025-07-10,Active,555
+556,Current,2023-12-12,Active,711
+557,Savings,2018-04-29,Closed,2
+558,Fixed Deposit,2021-08-14,Active,756
+559,Fixed Deposit,2025-08-11,Active,211
+560,Fixed Deposit,2021-03-11,Closed,430
+561,Current,2022-04-08,Closed,996
+562,Savings,2017-04-27,Inactive,96
+563,Savings,2016-07-18,Closed,919
+564,Fixed Deposit,2016-11-13,Active,918
+565,Current,2019-10-06,Active,766
+566,Savings,2024-03-11,Active,518
+567,Savings,2020-03-06,Active,404
+568,Savings,2020-10-27,Active,64
+569,Current,2017-09-15,Active,134
+570,Savings,2019-03-13,Active,872
+571,Current,2020-03-05,Closed,403
+572,Fixed Deposit,2022-12-29,Inactive,335
+573,Current,2019-11-02,Active,240
+574,Savings,2017-12-27,Closed,140
+575,Fixed Deposit,2023-06-06,Active,109
+576,Savings,2024-03-29,Active,322
+577,Current,2025-08-28,Active,367
+578,Savings,2025-04-25,Active,475
+579,Current,2024-03-02,Inactive,93
+580,Savings,2017-11-15,Inactive,312
+581,Fixed Deposit,2018-04-17,Active,42
+582,Savings,2021-07-11,Inactive,336
+583,Savings,2024-03-28,Active,255
+584,Current,2018-08-28,Active,51
+585,Fixed Deposit,2023-04-11,Active,840
+586,Savings,2019-02-06,Active,415
+587,Current,2023-10-17,Active,564
+588,Savings,2024-04-24,Active,105
+589,Savings,2017-06-05,Active,64
+590,Savings,2022-06-02,Active,844
+591,Current,2019-06-03,Active,646
+592,Fixed Deposit,2019-09-14,Active,601
+593,Current,2017-02-09,Closed,77
+594,Savings,2019-11-01,Closed,203
+595,Fixed Deposit,2017-03-15,Active,132
+596,Savings,2018-06-08,Closed,850
+597,Current,2021-11-16,Active,965
+598,Current,2024-01-14,Active,947
+599,Fixed Deposit,2016-11-24,Active,742
+600,Current,2017-02-20,Active,392
+601,Fixed Deposit,2017-09-17,Active,363
+602,Savings,2017-01-25,Closed,282
+603,Current,2018-08-18,Active,153
+604,Savings,2018-04-04,Active,632
+605,Savings,2024-01-01,Active,511
+606,Current,2025-07-26,Inactive,491
+607,Savings,2022-08-31,Active,393
+608,Savings,2023-02-23,Active,659
+609,Fixed Deposit,2019-05-25,Active,822
+610,Fixed Deposit,2017-09-15,Inactive,392
+611,Fixed Deposit,2021-09-08,Active,558
+612,Current,2017-07-09,Active,580
+613,Fixed Deposit,2022-06-05,Active,277
+614,Savings,2025-05-05,Active,612
+615,Savings,2019-11-28,Active,831
+616,Current,2024-01-06,Active,484
+617,Fixed Deposit,2023-06-14,Active,599
+618,Savings,2026-01-03,Closed,103
+619,Savings,2023-04-17,Active,273
+620,Fixed Deposit,2018-05-16,Inactive,940
+621,Fixed Deposit,2016-10-24,Active,971
+622,Savings,2024-03-29,Active,817
+623,Current,2020-11-21,Active,860
+624,Savings,2020-12-14,Active,607
+625,Current,2019-05-08,Inactive,715
+626,Current,2024-05-10,Closed,29
+627,Fixed Deposit,2019-10-11,Inactive,971
+628,Fixed Deposit,2017-11-21,Active,577
+629,Savings,2023-02-12,Inactive,830
+630,Current,2016-06-20,Active,180
+631,Current,2016-03-30,Active,58
+632,Savings,2017-07-30,Active,21
+633,Fixed Deposit,2018-11-16,Active,340
+634,Fixed Deposit,2016-09-12,Active,134
+635,Current,2024-02-04,Inactive,941
+636,Current,2018-05-15,Active,152
+637,Fixed Deposit,2021-08-03,Inactive,146
+638,Savings,2020-11-23,Inactive,882
+639,Current,2021-09-12,Closed,383
+640,Fixed Deposit,2022-01-22,Closed,406
+641,Fixed Deposit,2021-10-01,Active,310
+642,Current,2020-11-15,Active,162
+643,Fixed Deposit,2024-10-23,Closed,811
+644,Fixed Deposit,2024-04-05,Closed,665
+645,Current,2020-10-23,Active,992
+646,Fixed Deposit,2024-05-25,Active,952
+647,Fixed Deposit,2016-11-04,Inactive,229
+648,Fixed Deposit,2022-07-13,Active,180
+649,Current,2017-07-14,Active,706
+650,Current,2018-08-01,Active,747
+651,Savings,2024-10-22,Closed,972
+652,Fixed Deposit,2016-05-10,Active,790
+653,Fixed Deposit,2016-05-27,Active,617
+654,Current,2018-07-02,Closed,991
+655,Fixed Deposit,2018-06-22,Active,580
+656,Savings,2016-03-25,Closed,145
+657,Current,2024-11-13,Inactive,244
+658,Current,2017-10-16,Closed,172
+659,Fixed Deposit,2023-03-11,Inactive,91
+660,Fixed Deposit,2020-04-15,Active,747
+661,Current,2019-08-30,Active,272
+662,Savings,2017-07-07,Active,70
+663,Current,2023-11-28,Active,111
+664,Fixed Deposit,2023-01-06,Active,396
+665,Current,2017-09-14,Inactive,993
+666,Savings,2023-01-22,Inactive,505
+667,Current,2017-06-19,Active,385
+668,Savings,2021-08-05,Inactive,808
+669,Fixed Deposit,2025-12-01,Active,704
+670,Savings,2022-05-25,Active,76
+671,Savings,2021-02-02,Active,327
+672,Current,2022-10-09,Closed,76
+673,Current,2023-01-13,Active,385
+674,Savings,2025-06-17,Inactive,561
+675,Savings,2025-10-15,Active,629
+676,Current,2018-01-12,Inactive,442
+677,Fixed Deposit,2023-11-10,Active,912
+678,Current,2021-08-06,Active,104
+679,Current,2025-11-29,Active,195
+680,Current,2019-12-07,Active,740
+681,Fixed Deposit,2022-08-01,Active,677
+682,Current,2023-12-30,Active,99
+683,Savings,2018-05-17,Active,563
+684,Current,2023-05-18,Active,370
+685,Savings,2025-10-28,Active,302
+686,Fixed Deposit,2025-07-12,Active,492
+687,Savings,2016-05-02,Active,212
+688,Savings,2022-01-27,Active,84
+689,Current,2022-04-28,Inactive,316
+690,Current,2016-09-01,Active,917
+691,Fixed Deposit,2017-01-23,Active,658
+692,Fixed Deposit,2021-10-06,Active,380
+693,Current,2023-09-28,Active,457
+694,Savings,2023-10-26,Active,477
+695,Current,2025-02-11,Active,276
+696,Fixed Deposit,2025-05-20,Active,771
+697,Fixed Deposit,2017-09-06,Active,88
+698,Fixed Deposit,2020-03-02,Active,555
+699,Current,2020-02-02,Closed,604
+700,Savings,2016-07-02,Active,861
+701,Current,2019-06-01,Inactive,429
+702,Fixed Deposit,2020-04-26,Active,959
+703,Current,2019-02-21,Active,242
+704,Current,2019-04-22,Active,405
+705,Fixed Deposit,2016-08-12,Active,585
+706,Fixed Deposit,2022-12-13,Inactive,694
+707,Fixed Deposit,2020-01-14,Active,973
+708,Current,2019-07-11,Active,172
+709,Savings,2021-11-18,Inactive,130
+710,Savings,2021-06-02,Active,700
+711,Current,2023-08-22,Active,843
+712,Fixed Deposit,2018-06-04,Active,610
+713,Current,2025-01-24,Active,745
+714,Savings,2016-09-09,Active,570
+715,Current,2023-06-06,Active,878
+716,Current,2025-03-23,Active,940
+717,Savings,2020-12-05,Inactive,639
+718,Fixed Deposit,2018-01-22,Active,430
+719,Savings,2021-07-20,Active,152
+720,Fixed Deposit,2024-02-18,Active,777
+721,Savings,2021-10-31,Closed,577
+722,Savings,2021-09-10,Inactive,889
+723,Fixed Deposit,2022-11-23,Inactive,899
+724,Current,2024-01-08,Active,671
+725,Current,2016-06-07,Active,485
+726,Savings,2016-07-23,Active,413
+727,Savings,2024-08-22,Active,698
+728,Fixed Deposit,2024-12-06,Active,406
+729,Current,2024-02-13,Active,51
+730,Fixed Deposit,2023-02-27,Active,276
+731,Current,2016-03-06,Active,838
+732,Current,2021-10-27,Active,864
+733,Current,2017-08-02,Inactive,702
+734,Savings,2016-08-25,Closed,234
+735,Savings,2023-10-29,Active,762
+736,Current,2018-02-02,Inactive,329
+737,Current,2020-07-13,Inactive,620
+738,Fixed Deposit,2020-06-06,Active,453
+739,Savings,2023-05-04,Closed,417
+740,Fixed Deposit,2023-09-08,Active,529
+741,Current,2021-11-12,Inactive,528
+742,Savings,2018-10-14,Active,727
+743,Fixed Deposit,2017-01-26,Active,800
+744,Fixed Deposit,2017-10-06,Inactive,30
+745,Savings,2025-09-13,Active,853
+746,Savings,2023-09-28,Inactive,256
+747,Savings,2023-07-12,Active,941
+748,Current,2019-06-22,Inactive,281
+749,Current,2017-12-08,Inactive,518
+750,Current,2020-04-26,Active,127
+751,Fixed Deposit,2025-12-02,Active,382
+752,Current,2024-05-26,Active,182
+753,Current,2016-07-30,Active,359
+754,Current,2021-09-18,Active,916
+755,Current,2022-11-24,Inactive,706
+756,Savings,2018-05-31,Active,396
+757,Savings,2019-04-26,Active,586
+758,Savings,2025-11-14,Inactive,663
+759,Savings,2024-05-28,Active,276
+760,Fixed Deposit,2020-04-26,Active,21
+761,Fixed Deposit,2025-04-04,Active,934
+762,Savings,2022-12-21,Active,616
+763,Savings,2020-12-03,Active,623
+764,Current,2020-01-10,Inactive,727
+765,Fixed Deposit,2024-10-20,Active,917
+766,Current,2024-07-20,Inactive,471
+767,Current,2018-07-22,Active,310
+768,Fixed Deposit,2017-12-23,Active,639
+769,Current,2023-02-08,Active,8
+770,Fixed Deposit,2026-01-27,Closed,990
+771,Current,2021-04-24,Active,609
+772,Fixed Deposit,2018-10-29,Active,701
+773,Savings,2024-03-19,Active,345
+774,Current,2022-10-26,Active,883
+775,Current,2018-12-21,Active,729
+776,Fixed Deposit,2020-11-17,Active,154
+777,Fixed Deposit,2017-06-14,Inactive,922
+778,Savings,2018-09-17,Inactive,822
+779,Fixed Deposit,2016-10-22,Active,328
+780,Fixed Deposit,2020-08-22,Active,27
+781,Fixed Deposit,2024-04-07,Active,303
+782,Current,2022-08-31,Closed,415
+783,Current,2023-06-15,Inactive,598
+784,Fixed Deposit,2017-05-20,Closed,836
+785,Savings,2018-02-28,Active,731
+786,Savings,2021-03-24,Active,654
+787,Current,2021-04-05,Closed,688
+788,Current,2020-08-28,Active,866
+789,Savings,2017-04-02,Inactive,898
+790,Fixed Deposit,2024-02-23,Active,100
+791,Current,2025-11-18,Active,265
+792,Fixed Deposit,2023-05-28,Inactive,782
+793,Savings,2024-05-15,Closed,922
+794,Current,2018-08-29,Active,228
+795,Current,2025-06-22,Active,893
+796,Current,2021-11-13,Active,909
+797,Current,2025-05-14,Active,600
+798,Current,2021-08-15,Active,121
+799,Current,2021-02-18,Active,650
+800,Fixed Deposit,2022-11-14,Active,636
+801,Savings,2021-04-01,Active,200
+802,Fixed Deposit,2021-02-03,Active,698
+803,Current,2021-10-28,Active,424
+804,Savings,2024-11-01,Inactive,155
+805,Savings,2022-08-13,Closed,351
+806,Current,2018-06-10,Closed,915
+807,Current,2019-06-28,Active,884
+808,Fixed Deposit,2026-02-06,Active,83
+809,Current,2022-05-18,Active,182
+810,Current,2025-06-20,Active,5
+811,Current,2025-02-01,Active,780
+812,Savings,2018-02-13,Active,163
+813,Current,2022-05-21,Inactive,799
+814,Savings,2017-08-03,Active,445
+815,Fixed Deposit,2018-03-13,Active,440
+816,Current,2018-01-11,Active,39
+817,Fixed Deposit,2024-12-09,Active,383
+818,Savings,2021-05-07,Inactive,776
+819,Fixed Deposit,2023-10-30,Active,693
+820,Savings,2026-01-19,Active,255
+821,Savings,2020-01-29,Active,353
+822,Current,2020-01-02,Active,393
+823,Fixed Deposit,2025-03-25,Active,172
+824,Savings,2018-01-27,Inactive,306
+825,Current,2025-01-13,Active,533
+826,Fixed Deposit,2021-06-24,Active,445
+827,Fixed Deposit,2018-08-01,Closed,351
+828,Current,2019-05-19,Active,193
+829,Savings,2025-07-03,Closed,941
+830,Current,2019-06-25,Active,230
+831,Fixed Deposit,2016-11-17,Closed,217
+832,Fixed Deposit,2019-05-12,Active,517
+833,Savings,2026-01-14,Active,729
+834,Fixed Deposit,2022-06-07,Inactive,385
+835,Fixed Deposit,2022-07-04,Active,548
+836,Fixed Deposit,2018-06-05,Active,50
+837,Fixed Deposit,2018-12-21,Active,857
+838,Savings,2019-01-01,Active,119
+839,Current,2024-01-26,Active,127
+840,Fixed Deposit,2018-03-14,Active,719
+841,Savings,2025-08-01,Active,703
+842,Fixed Deposit,2025-04-03,Active,431
+843,Fixed Deposit,2025-09-14,Active,533
+844,Current,2022-10-27,Active,718
+845,Savings,2020-07-16,Active,921
+846,Savings,2019-05-29,Active,633
+847,Savings,2022-03-01,Active,804
+848,Savings,2025-09-20,Active,624
+849,Savings,2025-01-27,Inactive,852
+850,Fixed Deposit,2016-04-06,Closed,367
+851,Fixed Deposit,2025-06-17,Active,165
+852,Savings,2016-03-28,Active,933
+853,Savings,2022-01-05,Active,493
+854,Current,2023-04-18,Active,14
+855,Fixed Deposit,2024-12-14,Active,114
+856,Fixed Deposit,2021-02-16,Active,153
+857,Savings,2016-11-13,Inactive,77
+858,Fixed Deposit,2017-12-13,Inactive,927
+859,Current,2019-10-04,Active,468
+860,Current,2022-08-04,Active,52
+861,Savings,2022-04-03,Inactive,896
+862,Savings,2024-10-26,Inactive,369
+863,Fixed Deposit,2024-06-27,Active,757
+864,Savings,2016-04-02,Active,777
+865,Savings,2017-12-05,Active,142
+866,Fixed Deposit,2021-04-25,Active,337
+867,Current,2019-02-06,Inactive,979
+868,Fixed Deposit,2024-12-26,Active,751
+869,Savings,2020-07-22,Active,351
+870,Savings,2017-07-11,Active,410
+871,Current,2023-11-08,Active,395
+872,Fixed Deposit,2017-07-30,Inactive,820
+873,Current,2017-01-30,Active,817
+874,Savings,2017-05-10,Active,713
+875,Fixed Deposit,2018-01-29,Active,966
+876,Savings,2021-01-18,Active,934
+877,Fixed Deposit,2020-10-25,Active,583
+878,Fixed Deposit,2019-06-21,Active,626
+879,Current,2025-02-24,Inactive,627
+880,Savings,2022-01-18,Inactive,902
+881,Fixed Deposit,2017-10-16,Closed,134
+882,Current,2023-09-14,Closed,116
+883,Current,2019-04-04,Active,65
+884,Current,2020-10-28,Active,13
+885,Fixed Deposit,2021-04-06,Inactive,538
+886,Fixed Deposit,2024-10-10,Active,579
+887,Savings,2017-12-28,Closed,686
+888,Current,2020-11-28,Active,705
+889,Fixed Deposit,2023-03-07,Active,444
+890,Fixed Deposit,2021-12-28,Inactive,494
+891,Current,2017-12-31,Active,657
+892,Current,2019-08-29,Active,847
+893,Fixed Deposit,2026-01-06,Inactive,628
+894,Savings,2017-02-01,Active,957
+895,Savings,2022-02-17,Active,481
+896,Current,2021-06-05,Inactive,77
+897,Current,2017-08-04,Active,339
+898,Current,2018-04-08,Active,229
+899,Fixed Deposit,2022-05-16,Active,413
+900,Savings,2023-02-10,Active,455
+901,Fixed Deposit,2019-08-18,Active,878
+902,Current,2024-12-05,Active,122
+903,Current,2016-06-18,Inactive,19
+904,Savings,2022-06-01,Active,37
+905,Fixed Deposit,2022-04-10,Active,846
+906,Savings,2021-07-18,Inactive,987
+907,Fixed Deposit,2025-01-10,Active,912
+908,Fixed Deposit,2017-10-12,Active,671
+909,Fixed Deposit,2023-04-17,Active,350
+910,Current,2023-10-06,Inactive,837
+911,Savings,2024-09-07,Inactive,340
+912,Fixed Deposit,2016-11-11,Inactive,615
+913,Current,2020-07-29,Inactive,373
+914,Fixed Deposit,2025-02-12,Active,100
+915,Fixed Deposit,2018-07-29,Active,350
+916,Current,2025-01-12,Inactive,988
+917,Current,2018-04-07,Active,383
+918,Fixed Deposit,2016-04-25,Active,919
+919,Savings,2016-12-01,Active,842
+920,Fixed Deposit,2019-01-31,Inactive,420
+921,Savings,2022-11-28,Active,201
+922,Savings,2026-02-10,Active,873
+923,Current,2018-12-21,Active,845
+924,Savings,2022-01-27,Inactive,111
+925,Current,2025-04-29,Active,649
+926,Fixed Deposit,2017-08-25,Active,791
+927,Current,2019-04-27,Active,604
+928,Fixed Deposit,2016-08-19,Active,511
+929,Savings,2019-04-28,Active,50
+930,Fixed Deposit,2019-02-06,Closed,859
+931,Fixed Deposit,2024-02-10,Active,521
+932,Savings,2022-10-06,Active,178
+933,Fixed Deposit,2025-06-15,Inactive,107
+934,Current,2025-06-11,Active,621
+935,Current,2025-08-15,Active,394
+936,Current,2020-01-20,Closed,938
+937,Fixed Deposit,2016-09-15,Inactive,281
+938,Current,2019-06-27,Closed,994
+939,Current,2024-08-30,Active,137
+940,Savings,2022-11-10,Active,717
+941,Fixed Deposit,2018-05-21,Active,864
+942,Fixed Deposit,2016-05-15,Active,322
+943,Fixed Deposit,2024-02-18,Inactive,567
+944,Fixed Deposit,2018-11-25,Active,215
+945,Fixed Deposit,2017-01-21,Inactive,704
+946,Current,2023-09-18,Closed,136
+947,Fixed Deposit,2019-11-22,Active,982
+948,Savings,2018-11-07,Active,711
+949,Fixed Deposit,2024-05-21,Active,119
+950,Current,2016-12-09,Active,597
+951,Fixed Deposit,2021-10-28,Closed,728
+952,Current,2016-05-05,Active,916
+953,Fixed Deposit,2019-11-16,Active,868
+954,Current,2019-08-25,Inactive,536
+955,Savings,2019-01-02,Active,149
+956,Savings,2017-09-26,Active,205
+957,Current,2018-12-11,Inactive,165
+958,Current,2020-12-14,Active,150
+959,Savings,2019-04-21,Active,303
+960,Savings,2021-11-22,Inactive,34
+961,Current,2021-05-01,Inactive,105
+962,Fixed Deposit,2016-05-30,Inactive,758
+963,Fixed Deposit,2017-01-28,Inactive,761
+964,Fixed Deposit,2017-04-11,Active,244
+965,Fixed Deposit,2024-12-11,Inactive,818
+966,Fixed Deposit,2020-09-10,Active,681
+967,Savings,2023-03-30,Closed,397
+968,Current,2016-05-02,Closed,1000
+969,Fixed Deposit,2018-10-12,Active,566
+970,Savings,2016-10-10,Active,258
+971,Savings,2019-02-10,Active,800
+972,Current,2024-01-14,Inactive,934
+973,Fixed Deposit,2016-02-25,Inactive,664
+974,Current,2016-03-15,Inactive,560
+975,Fixed Deposit,2020-02-13,Active,795
+976,Fixed Deposit,2018-12-06,Closed,302
+977,Current,2022-05-27,Active,700
+978,Savings,2019-04-29,Active,178
+979,Fixed Deposit,2017-07-02,Active,387
+980,Savings,2024-07-19,Active,570
+981,Current,2017-06-05,Active,599
+982,Current,2021-07-10,Active,478
+983,Fixed Deposit,2023-01-17,Closed,41
+984,Savings,2019-10-20,Closed,612
+985,Savings,2019-08-06,Inactive,641
+986,Fixed Deposit,2018-03-05,Inactive,309
+987,Current,2023-09-15,Inactive,564
+988,Current,2020-11-12,Active,725
+989,Current,2021-09-07,Active,980
+990,Savings,2022-07-13,Active,806
+991,Fixed Deposit,2019-04-20,Active,557
+992,Fixed Deposit,2018-08-09,Active,358
+993,Savings,2016-08-11,Inactive,680
+994,Current,2022-07-31,Active,301
+995,Savings,2020-12-08,Closed,634
+996,Fixed Deposit,2023-09-12,Active,575
+997,Fixed Deposit,2024-07-02,Active,685
+998,Current,2018-08-26,Active,927
+999,Fixed Deposit,2017-03-31,Active,637
+1000,Savings,2023-12-14,Closed,699
+1001,Current,2022-08-20,Active,816
+1002,Savings,2024-05-03,Active,554
+1003,Fixed Deposit,2018-06-05,Active,934
+1004,Fixed Deposit,2022-11-18,Inactive,384
+1005,Fixed Deposit,2020-06-01,Inactive,457
+1006,Current,2022-02-21,Active,920
+1007,Fixed Deposit,2019-03-06,Active,527
+1008,Savings,2017-04-14,Closed,172
+1009,Fixed Deposit,2021-10-27,Active,642
+1010,Savings,2026-01-23,Active,645
+1011,Savings,2022-01-14,Inactive,435
+1012,Savings,2020-05-30,Active,849
+1013,Fixed Deposit,2016-11-21,Inactive,760
+1014,Current,2021-05-24,Active,963
+1015,Savings,2021-12-02,Inactive,158
+1016,Savings,2024-02-04,Active,340
+1017,Savings,2023-02-28,Active,56
+1018,Savings,2019-04-20,Inactive,572
+1019,Savings,2020-07-30,Active,234
+1020,Current,2023-11-29,Active,462
+1021,Fixed Deposit,2017-06-14,Active,324
+1022,Savings,2024-02-07,Active,122
+1023,Fixed Deposit,2021-03-20,Active,738
+1024,Fixed Deposit,2021-11-07,Active,764
+1025,Fixed Deposit,2021-06-25,Active,869
+1026,Savings,2018-11-12,Active,515
+1027,Savings,2024-09-10,Active,703
+1028,Current,2016-12-06,Active,289
+1029,Current,2016-12-28,Active,842
+1030,Fixed Deposit,2023-09-25,Active,161
+1031,Fixed Deposit,2019-10-29,Active,765
+1032,Current,2017-06-09,Inactive,870
+1033,Fixed Deposit,2024-11-05,Active,650
+1034,Savings,2025-04-04,Active,909
+1035,Fixed Deposit,2019-10-11,Active,981
+1036,Savings,2020-08-04,Active,569
+1037,Savings,2022-11-30,Active,6
+1038,Fixed Deposit,2024-08-05,Active,551
+1039,Fixed Deposit,2025-11-16,Closed,313
+1040,Savings,2023-10-16,Inactive,926
+1041,Fixed Deposit,2023-10-09,Active,423
+1042,Fixed Deposit,2017-08-13,Inactive,146
+1043,Savings,2018-11-10,Active,632
+1044,Current,2024-08-17,Active,186
+1045,Fixed Deposit,2021-07-10,Inactive,873
+1046,Savings,2023-05-30,Inactive,955
+1047,Fixed Deposit,2025-04-22,Active,563
+1048,Savings,2016-03-19,Active,69
+1049,Current,2018-07-15,Active,744
+1050,Fixed Deposit,2020-08-08,Active,339
+1051,Current,2019-08-24,Active,672
+1052,Savings,2018-03-27,Active,635
+1053,Savings,2024-10-10,Closed,326
+1054,Current,2023-09-08,Active,632
+1055,Fixed Deposit,2023-05-30,Active,599
+1056,Savings,2022-06-13,Active,374
+1057,Current,2023-05-29,Closed,173
+1058,Savings,2020-06-23,Active,805
+1059,Savings,2025-07-19,Inactive,657
+1060,Current,2022-10-04,Active,369
+1061,Savings,2022-10-28,Active,340
+1062,Current,2023-05-13,Active,368
+1063,Current,2020-11-22,Active,112
+1064,Savings,2022-12-20,Active,84
+1065,Current,2017-10-10,Inactive,144
+1066,Fixed Deposit,2017-08-27,Active,752
+1067,Fixed Deposit,2021-02-14,Active,78
+1068,Savings,2018-05-10,Inactive,647
+1069,Savings,2016-06-07,Inactive,593
+1070,Current,2016-07-24,Inactive,218
+1071,Savings,2020-07-29,Active,557
+1072,Fixed Deposit,2017-11-19,Active,794
+1073,Savings,2023-05-01,Active,229
+1074,Fixed Deposit,2023-12-10,Inactive,298
+1075,Savings,2020-09-03,Active,523
+1076,Savings,2016-10-21,Active,515
+1077,Savings,2017-09-03,Active,869
+1078,Fixed Deposit,2016-06-24,Active,776
+1079,Fixed Deposit,2022-05-17,Active,164
+1080,Savings,2020-02-27,Active,580
+1081,Fixed Deposit,2019-06-17,Inactive,150
+1082,Fixed Deposit,2025-05-28,Inactive,962
+1083,Current,2019-08-09,Active,780
+1084,Current,2025-03-08,Active,271
+1085,Current,2024-03-01,Active,685
+1086,Savings,2018-03-18,Active,811
+1087,Current,2018-11-21,Active,940
+1088,Current,2021-01-21,Inactive,41
+1089,Fixed Deposit,2016-03-15,Active,721
+1090,Fixed Deposit,2021-02-07,Active,281
+1091,Fixed Deposit,2016-09-18,Active,558
+1092,Fixed Deposit,2016-07-25,Active,670
+1093,Current,2016-09-01,Active,670
+1094,Savings,2024-09-24,Active,386
+1095,Savings,2017-05-22,Active,362
+1096,Current,2017-06-16,Active,494
+1097,Fixed Deposit,2016-11-18,Active,904
+1098,Savings,2019-11-26,Active,236
+1099,Savings,2022-04-17,Active,288
+1100,Savings,2020-05-24,Active,162
+1101,Current,2024-05-07,Active,837
+1102,Savings,2024-02-13,Active,425
+1103,Current,2016-08-28,Inactive,494
+1104,Fixed Deposit,2016-10-25,Active,216
+1105,Fixed Deposit,2022-07-23,Active,854
+1106,Current,2019-06-10,Active,45
+1107,Savings,2017-12-31,Active,165
+1108,Savings,2019-07-25,Active,41
+1109,Fixed Deposit,2016-12-07,Active,171
+1110,Current,2023-03-07,Closed,530
+1111,Current,2017-03-24,Active,578
+1112,Fixed Deposit,2022-03-18,Active,737
+1113,Fixed Deposit,2016-12-14,Active,291
+1114,Savings,2023-07-27,Active,622
+1115,Current,2018-02-14,Inactive,175
+1116,Savings,2026-01-08,Inactive,616
+1117,Savings,2022-10-28,Inactive,841
+1118,Savings,2022-01-27,Active,524
+1119,Current,2024-07-08,Active,703
+1120,Current,2018-07-09,Closed,611
+1121,Fixed Deposit,2018-08-28,Active,388
+1122,Current,2023-05-01,Active,17
+1123,Savings,2020-11-14,Active,932
+1124,Fixed Deposit,2023-12-24,Active,847
+1125,Savings,2021-04-17,Active,182
+1126,Current,2022-03-03,Closed,615
+1127,Savings,2025-11-16,Inactive,545
+1128,Fixed Deposit,2016-10-25,Inactive,96
+1129,Current,2023-07-31,Active,924
+1130,Fixed Deposit,2017-05-02,Active,2
+1131,Fixed Deposit,2022-04-30,Active,535
+1132,Current,2020-04-01,Active,45
+1133,Fixed Deposit,2024-08-23,Active,235
+1134,Current,2021-07-03,Inactive,391
+1135,Current,2019-08-10,Active,760
+1136,Fixed Deposit,2022-10-12,Active,436
+1137,Savings,2024-02-26,Active,785
+1138,Savings,2024-03-24,Closed,86
+1139,Current,2024-11-09,Active,557
+1140,Current,2024-03-31,Active,6
+1141,Fixed Deposit,2020-03-29,Inactive,8
+1142,Fixed Deposit,2025-06-15,Active,533
+1143,Savings,2019-01-05,Active,211
+1144,Fixed Deposit,2018-07-01,Inactive,419
+1145,Current,2025-09-19,Active,437
+1146,Fixed Deposit,2022-10-07,Active,268
+1147,Fixed Deposit,2021-12-06,Active,375
+1148,Fixed Deposit,2022-05-18,Active,697
+1149,Current,2020-06-26,Inactive,424
+1150,Fixed Deposit,2022-02-28,Inactive,495
+1151,Savings,2021-11-25,Active,569
+1152,Current,2023-09-09,Active,315
+1153,Fixed Deposit,2018-01-09,Active,723
+1154,Current,2019-01-07,Inactive,876
+1155,Fixed Deposit,2017-11-15,Active,236
+1156,Current,2019-01-28,Inactive,973
+1157,Savings,2024-05-10,Active,521
+1158,Current,2023-08-01,Inactive,821
+1159,Fixed Deposit,2017-07-10,Active,701
+1160,Fixed Deposit,2019-06-03,Active,399
+1161,Fixed Deposit,2022-12-01,Active,94
+1162,Savings,2022-08-18,Active,615
+1163,Current,2020-08-21,Active,270
+1164,Savings,2019-02-17,Active,624
+1165,Savings,2018-12-05,Inactive,954
+1166,Current,2017-11-20,Active,534
+1167,Current,2024-07-04,Inactive,612
+1168,Savings,2026-02-05,Closed,840
+1169,Savings,2022-07-09,Active,450
+1170,Savings,2020-06-06,Active,673
+1171,Fixed Deposit,2021-04-23,Active,35
+1172,Fixed Deposit,2022-04-04,Active,716
+1173,Savings,2019-12-16,Active,691
+1174,Savings,2024-06-27,Active,671
+1175,Savings,2016-07-20,Closed,89
+1176,Current,2023-01-19,Inactive,362
+1177,Fixed Deposit,2019-03-27,Active,601
+1178,Savings,2018-04-12,Active,755
+1179,Fixed Deposit,2020-06-29,Active,93
+1180,Fixed Deposit,2018-09-18,Active,850
+1181,Fixed Deposit,2024-06-02,Closed,357
+1182,Current,2021-01-20,Closed,284
+1183,Savings,2022-12-07,Active,200
+1184,Current,2025-06-11,Closed,589
+1185,Savings,2018-08-04,Active,417
+1186,Fixed Deposit,2017-08-30,Active,75
+1187,Fixed Deposit,2022-07-08,Active,970
+1188,Savings,2023-03-20,Inactive,980
+1189,Current,2022-04-13,Inactive,833
+1190,Fixed Deposit,2023-09-16,Active,454
+1191,Current,2022-03-01,Active,789
+1192,Savings,2022-10-06,Inactive,985
+1193,Current,2016-11-17,Active,919
+1194,Fixed Deposit,2022-12-18,Inactive,494
+1195,Savings,2024-12-23,Active,392
+1196,Fixed Deposit,2024-12-02,Inactive,226
+1197,Fixed Deposit,2018-04-25,Inactive,820
+1198,Current,2022-05-31,Active,362
+1199,Fixed Deposit,2016-10-27,Active,718
+1200,Current,2016-07-21,Active,96
+1201,Current,2020-12-08,Active,841
+1202,Current,2016-07-11,Active,954
+1203,Savings,2019-06-25,Active,363
+1204,Savings,2022-02-16,Inactive,276
+1205,Savings,2021-12-06,Closed,700
+1206,Savings,2023-03-06,Active,205
+1207,Savings,2017-02-04,Inactive,894
+1208,Current,2024-12-04,Active,208
+1209,Savings,2017-05-26,Inactive,365
+1210,Savings,2020-11-07,Inactive,123
+1211,Savings,2025-10-10,Active,680
+1212,Current,2016-10-10,Active,783
+1213,Fixed Deposit,2021-08-17,Closed,869
+1214,Current,2022-02-08,Active,323
+1215,Current,2025-05-23,Inactive,903
+1216,Fixed Deposit,2025-12-06,Inactive,503
+1217,Savings,2021-03-12,Closed,938
+1218,Fixed Deposit,2021-02-07,Active,228
+1219,Fixed Deposit,2023-09-25,Active,539
+1220,Current,2017-03-26,Active,554
+1221,Savings,2023-09-04,Active,404
+1222,Fixed Deposit,2022-09-22,Inactive,469
+1223,Savings,2022-06-14,Active,472
+1224,Current,2023-01-11,Active,13
+1225,Fixed Deposit,2025-10-16,Active,595
+1226,Savings,2019-07-29,Active,628
+1227,Current,2019-01-21,Active,270
+1228,Savings,2025-09-22,Active,982
+1229,Fixed Deposit,2022-09-09,Active,189
+1230,Current,2019-01-08,Active,430
+1231,Fixed Deposit,2019-10-07,Inactive,374
+1232,Current,2016-11-19,Active,185
+1233,Fixed Deposit,2021-12-13,Active,590
+1234,Fixed Deposit,2020-03-22,Active,103
+1235,Fixed Deposit,2025-01-26,Active,242
+1236,Fixed Deposit,2025-01-07,Active,391
+1237,Savings,2020-01-05,Active,983
+1238,Fixed Deposit,2017-07-23,Active,826
+1239,Savings,2024-05-16,Active,512
+1240,Savings,2018-12-27,Closed,870
+1241,Fixed Deposit,2025-12-23,Active,738
+1242,Current,2020-05-03,Inactive,308
+1243,Current,2026-01-31,Active,582
+1244,Savings,2023-08-30,Active,708
+1245,Savings,2022-09-15,Active,834
+1246,Current,2025-07-21,Active,645
+1247,Savings,2021-09-15,Active,343
+1248,Current,2019-10-19,Active,574
+1249,Fixed Deposit,2016-04-07,Closed,264
+1250,Current,2023-08-11,Active,125
+1251,Current,2016-10-13,Inactive,987
+1252,Fixed Deposit,2025-09-22,Active,590
+1253,Fixed Deposit,2019-03-03,Active,179
+1254,Current,2019-02-27,Active,690
+1255,Fixed Deposit,2021-03-07,Active,755
+1256,Current,2022-07-01,Inactive,391
+1257,Fixed Deposit,2023-05-16,Active,647
+1258,Savings,2022-02-21,Inactive,656
+1259,Current,2022-02-28,Active,628
+1260,Fixed Deposit,2021-10-25,Active,929
+1261,Savings,2022-11-09,Active,352
+1262,Savings,2021-12-20,Active,669
+1263,Current,2025-01-24,Inactive,620
+1264,Fixed Deposit,2021-03-11,Active,909
+1265,Current,2025-06-06,Inactive,962
+1266,Current,2017-12-08,Inactive,534
+1267,Current,2021-07-28,Active,189
+1268,Savings,2016-05-23,Active,241
+1269,Fixed Deposit,2016-11-02,Active,762
+1270,Fixed Deposit,2017-02-19,Inactive,216
+1271,Savings,2017-04-10,Active,98
+1272,Savings,2022-10-09,Closed,485
+1273,Fixed Deposit,2019-08-25,Active,790
+1274,Current,2020-09-16,Active,86
+1275,Savings,2020-09-13,Active,160
+1276,Savings,2023-02-04,Active,907
+1277,Current,2024-07-13,Active,254
+1278,Fixed Deposit,2025-03-21,Active,642
+1279,Savings,2021-02-02,Active,859
+1280,Savings,2024-07-09,Active,680
+1281,Current,2016-04-24,Inactive,334
+1282,Current,2024-07-11,Active,892
+1283,Fixed Deposit,2018-03-07,Closed,562
+1284,Current,2024-11-16,Active,972
+1285,Fixed Deposit,2018-12-16,Active,606
+1286,Fixed Deposit,2020-05-05,Active,767
+1287,Fixed Deposit,2024-06-08,Inactive,446
+1288,Fixed Deposit,2019-02-18,Active,547
+1289,Current,2020-12-29,Closed,494
+1290,Fixed Deposit,2017-02-13,Active,92
+1291,Current,2018-07-20,Active,423
+1292,Current,2020-11-19,Active,11
+1293,Savings,2025-06-21,Active,777
+1294,Savings,2023-02-04,Active,481
+1295,Fixed Deposit,2025-07-29,Active,945
+1296,Current,2025-03-07,Closed,489
+1297,Current,2016-07-09,Active,441
+1298,Current,2019-07-04,Active,816
+1299,Savings,2016-10-22,Active,194
+1300,Current,2024-10-31,Inactive,448
+1301,Current,2025-10-31,Active,733
+1302,Fixed Deposit,2023-01-10,Active,849
+1303,Current,2022-01-18,Active,82
+1304,Current,2018-01-23,Active,530
+1305,Fixed Deposit,2018-03-05,Inactive,702
+1306,Current,2018-12-21,Active,761
+1307,Fixed Deposit,2019-03-20,Inactive,423
+1308,Savings,2023-08-27,Inactive,187
+1309,Savings,2023-06-18,Active,653
+1310,Current,2022-01-22,Active,279
+1311,Fixed Deposit,2017-11-20,Active,193
+1312,Current,2017-12-26,Active,51
+1313,Fixed Deposit,2023-07-13,Active,996
+1314,Savings,2025-04-05,Active,129
+1315,Fixed Deposit,2020-10-03,Active,9
+1316,Savings,2016-05-04,Active,16
+1317,Current,2017-03-27,Active,431
+1318,Current,2017-12-03,Inactive,511
+1319,Current,2021-09-14,Active,811
+1320,Savings,2022-11-30,Active,864
+1321,Savings,2020-07-07,Active,795
+1322,Current,2021-04-28,Active,482
+1323,Savings,2020-10-29,Active,862
+1324,Current,2024-11-27,Inactive,849
+1325,Savings,2023-11-08,Active,787
+1326,Fixed Deposit,2022-05-30,Active,790
+1327,Current,2026-01-22,Active,35
+1328,Savings,2016-12-04,Active,790
+1329,Savings,2019-11-23,Active,214
+1330,Current,2020-03-28,Active,985
+1331,Current,2022-03-06,Closed,163
+1332,Fixed Deposit,2025-05-24,Inactive,763
+1333,Fixed Deposit,2016-07-30,Active,260
+1334,Current,2021-02-05,Active,204
+1335,Current,2023-09-05,Inactive,885
+1336,Fixed Deposit,2016-09-30,Active,116
+1337,Savings,2022-03-16,Active,333
+1338,Savings,2020-02-02,Active,283
+1339,Fixed Deposit,2025-01-13,Active,809
+1340,Savings,2020-03-28,Active,44
+1341,Fixed Deposit,2020-09-13,Inactive,487
+1342,Fixed Deposit,2019-07-28,Active,381
+1343,Savings,2021-06-27,Active,512
+1344,Savings,2016-04-09,Active,347
+1345,Fixed Deposit,2024-10-01,Active,365
+1346,Fixed Deposit,2024-09-28,Active,550
+1347,Savings,2016-07-11,Active,239
+1348,Current,2021-02-28,Closed,808
+1349,Fixed Deposit,2020-10-22,Inactive,825
+1350,Current,2024-12-21,Inactive,22
+1351,Fixed Deposit,2017-01-28,Active,742
+1352,Savings,2018-01-18,Active,41
+1353,Current,2019-09-15,Inactive,573
+1354,Current,2023-01-08,Active,502
+1355,Savings,2020-01-04,Active,557
+1356,Current,2023-12-10,Active,480
+1357,Current,2022-01-12,Inactive,614
+1358,Fixed Deposit,2024-04-17,Active,544
+1359,Savings,2019-02-22,Active,840
+1360,Current,2024-10-31,Active,465
+1361,Savings,2019-01-19,Inactive,519
+1362,Current,2018-02-24,Inactive,905
+1363,Savings,2022-08-29,Active,373
+1364,Fixed Deposit,2022-02-05,Active,739
+1365,Savings,2017-03-18,Active,552
+1366,Current,2022-06-08,Active,700
+1367,Current,2016-10-02,Inactive,158
+1368,Fixed Deposit,2019-01-04,Active,420
+1369,Fixed Deposit,2021-07-21,Active,99
+1370,Fixed Deposit,2024-02-14,Active,45
+1371,Savings,2022-03-15,Active,33
+1372,Savings,2020-12-03,Active,197
+1373,Savings,2025-02-19,Active,658
+1374,Current,2019-03-27,Active,539
+1375,Fixed Deposit,2026-01-03,Inactive,263
+1376,Savings,2017-10-13,Active,621
+1377,Fixed Deposit,2022-01-31,Active,953
+1378,Savings,2021-06-13,Active,951
+1379,Savings,2022-12-23,Active,655
+1380,Savings,2018-03-22,Active,762
+1381,Current,2022-12-27,Inactive,814
+1382,Fixed Deposit,2022-08-25,Active,632
+1383,Current,2018-01-25,Active,752
+1384,Savings,2017-06-27,Inactive,80
+1385,Savings,2024-07-21,Closed,100
+1386,Savings,2023-09-10,Inactive,545
+1387,Current,2022-02-01,Active,539
+1388,Fixed Deposit,2017-08-20,Active,641
+1389,Savings,2019-05-18,Active,572
+1390,Current,2023-06-28,Inactive,785
+1391,Fixed Deposit,2019-06-12,Active,691
+1392,Current,2024-07-08,Inactive,438
+1393,Savings,2019-12-25,Active,185
+1394,Fixed Deposit,2016-11-16,Active,346
+1395,Fixed Deposit,2021-02-11,Active,615
+1396,Current,2025-08-07,Closed,925
+1397,Current,2016-04-06,Active,333
+1398,Current,2017-07-04,Active,649
+1399,Current,2018-07-02,Inactive,332
+1400,Fixed Deposit,2021-12-31,Active,559
+1401,Savings,2017-09-30,Active,564
+1402,Fixed Deposit,2018-05-29,Active,985
+1403,Current,2017-12-15,Active,407
+1404,Savings,2017-03-04,Inactive,292
+1405,Fixed Deposit,2020-06-20,Active,139
+1406,Current,2017-06-17,Active,228
+1407,Savings,2019-07-30,Inactive,23
+1408,Fixed Deposit,2026-01-12,Inactive,942
+1409,Fixed Deposit,2019-10-11,Active,585
+1410,Fixed Deposit,2020-04-30,Active,39
+1411,Current,2021-08-24,Active,142
+1412,Current,2025-08-19,Active,597
+1413,Savings,2025-11-25,Active,831
+1414,Current,2022-09-02,Active,410
+1415,Fixed Deposit,2019-06-11,Closed,752
+1416,Savings,2018-02-04,Inactive,812
+1417,Current,2025-08-24,Active,846
+1418,Fixed Deposit,2021-12-25,Inactive,840
+1419,Savings,2017-03-01,Active,308
+1420,Savings,2022-11-12,Inactive,591
+1421,Current,2018-07-30,Active,58
+1422,Current,2024-04-10,Active,837
+1423,Current,2017-09-30,Active,889
+1424,Savings,2021-05-06,Inactive,233
+1425,Fixed Deposit,2021-05-09,Active,617
+1426,Savings,2024-09-05,Active,648
+1427,Current,2023-12-24,Active,537
+1428,Savings,2024-12-13,Active,579
+1429,Savings,2021-09-22,Active,715
+1430,Savings,2021-09-18,Active,690
+1431,Fixed Deposit,2020-11-15,Closed,995
+1432,Current,2019-06-12,Inactive,590
+1433,Fixed Deposit,2019-06-02,Active,443
+1434,Current,2016-04-14,Inactive,152
+1435,Savings,2016-05-19,Active,488
+1436,Fixed Deposit,2017-12-30,Inactive,562
+1437,Current,2025-08-11,Active,409
+1438,Fixed Deposit,2020-09-19,Active,715
+1439,Savings,2024-04-22,Inactive,493
+1440,Fixed Deposit,2016-12-17,Active,405
+1441,Fixed Deposit,2024-11-06,Active,575
+1442,Fixed Deposit,2022-12-08,Closed,537
+1443,Savings,2019-06-22,Active,273
+1444,Current,2025-06-01,Active,947
+1445,Fixed Deposit,2025-08-05,Active,688
+1446,Current,2020-10-13,Active,357
+1447,Savings,2025-07-05,Active,609
+1448,Fixed Deposit,2016-12-27,Active,313
+1449,Savings,2019-11-25,Closed,632
+1450,Current,2025-02-22,Active,452
+1451,Savings,2024-04-30,Closed,240
+1452,Savings,2017-01-11,Active,160
+1453,Fixed Deposit,2017-09-20,Inactive,116
+1454,Fixed Deposit,2020-11-29,Active,972
+1455,Fixed Deposit,2025-01-24,Closed,890
+1456,Current,2017-12-31,Active,711
+1457,Savings,2024-06-11,Active,483
+1458,Savings,2023-04-29,Active,758
+1459,Fixed Deposit,2025-01-08,Active,560
+1460,Fixed Deposit,2018-12-03,Inactive,562
+1461,Current,2021-06-09,Active,145
+1462,Fixed Deposit,2019-07-04,Active,19
+1463,Current,2020-10-20,Active,680
+1464,Fixed Deposit,2025-11-08,Active,175
+1465,Savings,2023-07-10,Active,809
+1466,Fixed Deposit,2023-04-05,Active,55
+1467,Current,2022-08-29,Active,9
+1468,Savings,2024-07-27,Active,278
+1469,Fixed Deposit,2021-10-16,Inactive,676
+1470,Current,2019-02-25,Inactive,20
+1471,Current,2025-10-25,Inactive,665
+1472,Current,2024-06-13,Active,390
+1473,Fixed Deposit,2019-12-05,Closed,102
+1474,Current,2016-07-13,Active,612
+1475,Fixed Deposit,2022-11-03,Active,204
+1476,Fixed Deposit,2016-03-29,Closed,575
+1477,Fixed Deposit,2023-08-07,Active,254
+1478,Fixed Deposit,2019-12-13,Active,502
+1479,Current,2025-07-13,Inactive,19
+1480,Current,2016-03-23,Active,364
+1481,Fixed Deposit,2017-03-25,Active,514
+1482,Current,2017-01-17,Inactive,641
+1483,Current,2023-10-01,Inactive,912
+1484,Savings,2022-06-17,Closed,972
+1485,Current,2018-05-23,Active,350
+1486,Current,2020-04-28,Active,90
+1487,Fixed Deposit,2022-03-21,Active,984
+1488,Fixed Deposit,2018-02-05,Active,641
+1489,Fixed Deposit,2020-08-08,Active,247
+1490,Fixed Deposit,2025-05-18,Active,994
+1491,Current,2024-01-15,Closed,338
+1492,Current,2024-05-25,Active,212
+1493,Fixed Deposit,2024-09-22,Active,555
+1494,Fixed Deposit,2017-03-11,Inactive,884
+1495,Savings,2023-07-06,Active,723
+1496,Fixed Deposit,2022-12-07,Closed,441
+1497,Savings,2022-01-16,Active,579
+1498,Savings,2021-12-04,Active,571
+1499,Fixed Deposit,2018-01-06,Closed,122
+1500,Savings,2021-03-08,Active,901
+1501,Savings,2023-06-01,Inactive,784
+1502,Current,2018-10-28,Inactive,424
+1503,Current,2018-02-12,Active,764
+1504,Fixed Deposit,2025-09-11,Closed,281
+1505,Savings,2024-12-08,Inactive,110
+1506,Savings,2022-12-16,Active,781
+1507,Fixed Deposit,2025-10-10,Active,621
+1508,Fixed Deposit,2017-03-22,Active,611
+1509,Savings,2024-11-15,Active,27
+1510,Current,2018-12-06,Active,799
+1511,Current,2018-09-07,Active,867
+1512,Fixed Deposit,2016-08-15,Active,666
+1513,Current,2023-08-18,Active,397
+1514,Current,2025-04-21,Active,168
+1515,Savings,2025-12-22,Active,419
+1516,Savings,2020-05-22,Closed,974
+1517,Current,2018-01-06,Active,688
+1518,Savings,2020-11-15,Inactive,68
+1519,Savings,2019-12-16,Closed,450
+1520,Fixed Deposit,2023-04-20,Active,333
+1521,Current,2016-12-01,Inactive,438
+1522,Current,2021-01-08,Inactive,623
+1523,Fixed Deposit,2018-10-28,Inactive,738
+1524,Current,2017-02-23,Active,962
+1525,Fixed Deposit,2022-05-20,Active,550
+1526,Fixed Deposit,2021-01-11,Active,722
+1527,Savings,2016-07-15,Active,463
+1528,Current,2019-09-07,Inactive,44
+1529,Savings,2023-04-10,Active,406
+1530,Fixed Deposit,2017-06-15,Active,397
+1531,Fixed Deposit,2020-01-09,Inactive,986
+1532,Savings,2025-01-13,Active,451
+1533,Current,2025-01-16,Inactive,793
+1534,Current,2022-02-18,Active,433
+1535,Current,2022-12-31,Active,56
+1536,Fixed Deposit,2022-04-07,Active,146
+1537,Current,2018-07-23,Inactive,463
+1538,Savings,2021-02-12,Inactive,116
+1539,Savings,2016-05-08,Inactive,961
+1540,Fixed Deposit,2019-03-24,Active,403
+1541,Current,2024-12-12,Active,26
+1542,Savings,2022-06-11,Active,919
+1543,Fixed Deposit,2019-01-01,Inactive,904
+1544,Current,2021-11-05,Active,332
+1545,Fixed Deposit,2022-06-10,Active,729
+1546,Savings,2021-03-27,Inactive,127
+1547,Savings,2023-11-20,Active,461
+1548,Fixed Deposit,2018-08-12,Active,537
+1549,Fixed Deposit,2019-02-17,Active,811
+1550,Fixed Deposit,2020-11-14,Active,164
+1551,Current,2021-03-24,Active,45
+1552,Savings,2021-06-18,Closed,580
+1553,Fixed Deposit,2018-08-22,Inactive,167
+1554,Savings,2019-01-27,Active,730
+1555,Savings,2022-01-23,Active,317
+1556,Fixed Deposit,2018-01-22,Inactive,457
+1557,Current,2022-06-12,Active,121
+1558,Savings,2024-08-04,Closed,4
+1559,Fixed Deposit,2016-09-13,Inactive,13
+1560,Current,2019-01-30,Active,511
+1561,Fixed Deposit,2023-12-19,Inactive,623
+1562,Current,2016-08-12,Active,603
+1563,Fixed Deposit,2018-11-17,Active,420
+1564,Current,2023-10-27,Active,615
+1565,Savings,2024-03-01,Active,561
+1566,Current,2016-08-26,Active,571
+1567,Savings,2017-10-16,Active,152
+1568,Savings,2021-10-28,Active,38
+1569,Savings,2016-03-28,Inactive,684
+1570,Fixed Deposit,2023-07-28,Inactive,306
+1571,Current,2025-12-25,Closed,51
+1572,Savings,2016-04-10,Active,183
+1573,Savings,2016-04-30,Active,626
+1574,Fixed Deposit,2021-03-03,Active,610
+1575,Fixed Deposit,2020-10-19,Inactive,182
+1576,Current,2024-07-14,Inactive,369
+1577,Savings,2016-06-16,Active,307
+1578,Current,2026-02-18,Active,389
+1579,Savings,2022-04-07,Inactive,864
+1580,Fixed Deposit,2018-06-22,Active,483
+1581,Savings,2016-06-25,Active,881
+1582,Current,2022-07-07,Active,424
+1583,Fixed Deposit,2022-05-27,Active,215
+1584,Fixed Deposit,2021-11-20,Active,586
+1585,Fixed Deposit,2019-05-06,Closed,542
+1586,Savings,2023-12-16,Active,706
+1587,Fixed Deposit,2017-11-01,Closed,724
+1588,Current,2016-06-07,Active,869
+1589,Current,2018-02-19,Active,589
+1590,Fixed Deposit,2019-11-19,Active,133
+1591,Fixed Deposit,2021-02-21,Active,533
+1592,Fixed Deposit,2022-05-23,Active,505
+1593,Savings,2022-10-16,Inactive,239
+1594,Fixed Deposit,2016-03-17,Active,199
+1595,Savings,2019-01-08,Active,477
+1596,Fixed Deposit,2018-09-17,Inactive,756
+1597,Savings,2025-12-08,Inactive,425
+1598,Current,2025-03-12,Active,359
+1599,Fixed Deposit,2023-02-03,Inactive,218
+1600,Savings,2017-01-22,Active,707
+1601,Current,2023-09-11,Active,70
+1602,Current,2022-09-24,Active,564
+1603,Current,2017-12-11,Inactive,117
+1604,Fixed Deposit,2023-12-10,Active,406
+1605,Fixed Deposit,2017-11-01,Active,984
+1606,Savings,2017-11-30,Inactive,199
+1607,Current,2025-06-06,Inactive,945
+1608,Fixed Deposit,2016-05-06,Active,486
+1609,Savings,2019-04-29,Active,494
+1610,Savings,2019-08-01,Active,914
+1611,Fixed Deposit,2017-07-20,Inactive,474
+1612,Current,2019-07-14,Closed,58
+1613,Fixed Deposit,2017-02-13,Active,743
+1614,Fixed Deposit,2021-09-07,Active,549
+1615,Savings,2018-12-14,Active,702
+1616,Current,2021-08-06,Inactive,910
+1617,Current,2021-07-07,Active,153
+1618,Current,2018-01-02,Inactive,348
+1619,Current,2024-09-06,Active,863
+1620,Savings,2025-07-29,Active,399
+1621,Savings,2023-04-26,Active,886
+1622,Current,2018-09-21,Inactive,323
+1623,Fixed Deposit,2020-05-12,Active,424
+1624,Savings,2016-05-29,Active,244
+1625,Current,2020-01-29,Active,974
+1626,Current,2022-07-12,Active,310
+1627,Savings,2025-02-26,Active,804
+1628,Savings,2023-04-20,Inactive,936
+1629,Savings,2025-05-01,Active,26
+1630,Current,2023-09-28,Closed,158
+1631,Savings,2022-11-07,Active,496
+1632,Fixed Deposit,2023-09-08,Inactive,318
+1633,Current,2024-11-01,Active,893
+1634,Savings,2021-12-13,Inactive,961
+1635,Fixed Deposit,2020-03-11,Active,136
+1636,Savings,2019-09-19,Inactive,471
+1637,Current,2019-11-28,Inactive,535
+1638,Savings,2024-09-24,Active,955
+1639,Savings,2022-06-25,Active,609
+1640,Savings,2018-05-12,Active,911
+1641,Savings,2019-03-27,Active,785
+1642,Fixed Deposit,2022-12-01,Inactive,24
+1643,Fixed Deposit,2020-01-12,Inactive,655
+1644,Savings,2019-05-27,Active,198
+1645,Current,2025-04-15,Active,327
+1646,Current,2022-01-06,Active,280
+1647,Savings,2019-05-23,Active,118
+1648,Savings,2019-03-07,Closed,574
+1649,Fixed Deposit,2025-10-17,Active,556
+1650,Current,2021-03-20,Active,278
+1651,Savings,2025-04-12,Closed,824
+1652,Current,2022-08-11,Active,176
+1653,Savings,2021-04-30,Active,914
+1654,Current,2018-10-30,Active,52
+1655,Savings,2023-09-04,Active,925
+1656,Fixed Deposit,2019-05-31,Active,393
+1657,Savings,2025-04-02,Active,402
+1658,Savings,2017-08-19,Inactive,913
+1659,Fixed Deposit,2024-11-02,Active,707
+1660,Fixed Deposit,2022-07-09,Active,365
+1661,Current,2025-02-26,Active,203
+1662,Fixed Deposit,2019-03-29,Inactive,829
+1663,Fixed Deposit,2024-05-09,Active,945
+1664,Current,2022-09-29,Active,96
+1665,Fixed Deposit,2024-07-01,Active,467
+1666,Current,2024-09-04,Active,728
+1667,Current,2026-01-31,Active,971
+1668,Savings,2022-09-14,Active,918
+1669,Fixed Deposit,2022-12-15,Active,373
+1670,Current,2017-04-04,Active,940
+1671,Fixed Deposit,2024-04-09,Active,882
+1672,Current,2022-01-09,Active,31
+1673,Savings,2025-07-13,Active,360
+1674,Current,2021-06-23,Active,175
+1675,Current,2025-02-22,Inactive,619
+1676,Fixed Deposit,2019-04-16,Active,106
+1677,Current,2023-10-01,Inactive,816
+1678,Savings,2024-10-02,Active,666
+1679,Savings,2016-05-06,Inactive,546
+1680,Current,2019-10-15,Active,424
+1681,Savings,2024-12-31,Active,562
+1682,Savings,2019-02-17,Closed,394
+1683,Savings,2025-09-03,Active,834
+1684,Fixed Deposit,2017-12-22,Active,804
+1685,Current,2024-11-11,Active,351
+1686,Fixed Deposit,2018-12-17,Active,178
+1687,Fixed Deposit,2024-01-29,Active,758
+1688,Fixed Deposit,2024-05-21,Active,499
+1689,Savings,2016-11-07,Active,475
+1690,Current,2017-12-23,Active,842
+1691,Current,2024-08-19,Active,979
+1692,Current,2016-10-06,Active,112
+1693,Fixed Deposit,2025-08-04,Inactive,790
+1694,Current,2022-11-26,Active,661
+1695,Fixed Deposit,2022-06-15,Active,223
+1696,Savings,2024-09-28,Inactive,925
+1697,Fixed Deposit,2022-01-04,Inactive,776
+1698,Savings,2023-02-05,Active,464
+1699,Fixed Deposit,2023-02-27,Active,631
+1700,Fixed Deposit,2020-12-20,Active,211
+1701,Fixed Deposit,2025-05-02,Inactive,307
+1702,Fixed Deposit,2022-05-05,Inactive,696
+1703,Current,2021-09-13,Closed,960
+1704,Current,2019-05-11,Inactive,938
+1705,Current,2017-11-18,Closed,597
+1706,Savings,2023-12-24,Active,523
+1707,Current,2020-07-26,Inactive,873
+1708,Current,2020-11-18,Active,923
+1709,Fixed Deposit,2018-03-30,Closed,1
+1710,Fixed Deposit,2018-12-01,Active,368
+1711,Savings,2016-11-08,Inactive,887
+1712,Savings,2022-01-13,Active,720
+1713,Fixed Deposit,2021-11-14,Active,326
+1714,Fixed Deposit,2020-01-24,Active,391
+1715,Current,2022-09-18,Active,679
+1716,Savings,2025-07-24,Active,193
+1717,Fixed Deposit,2025-03-19,Active,947
+1718,Current,2017-07-09,Inactive,158
+1719,Current,2020-09-06,Closed,687
+1720,Savings,2023-01-22,Active,74
+1721,Fixed Deposit,2019-02-26,Active,739
+1722,Current,2021-05-18,Active,999
+1723,Savings,2017-03-09,Active,658
+1724,Current,2023-10-22,Inactive,916
+1725,Fixed Deposit,2017-08-14,Active,436
+1726,Fixed Deposit,2016-08-06,Active,522
+1727,Current,2020-04-09,Active,461
+1728,Current,2025-02-19,Active,191
+1729,Current,2023-08-19,Active,592
+1730,Current,2021-08-08,Inactive,243
+1731,Fixed Deposit,2018-06-19,Active,421
+1732,Fixed Deposit,2018-05-08,Active,35
+1733,Savings,2019-04-13,Active,722
+1734,Current,2019-11-03,Active,494
+1735,Fixed Deposit,2022-05-06,Active,748
+1736,Fixed Deposit,2024-03-10,Active,880
+1737,Current,2023-05-23,Active,81
+1738,Fixed Deposit,2021-12-12,Inactive,91
+1739,Savings,2019-09-22,Active,760
+1740,Fixed Deposit,2019-12-23,Closed,80
+1741,Fixed Deposit,2021-11-01,Active,818
+1742,Fixed Deposit,2024-04-05,Active,55
+1743,Current,2025-04-23,Active,12
+1744,Current,2022-06-16,Active,928
+1745,Current,2025-12-13,Active,340
+1746,Current,2017-07-06,Active,818
+1747,Current,2019-02-05,Active,37
+1748,Fixed Deposit,2016-06-16,Closed,768
+1749,Current,2021-02-16,Inactive,578
+1750,Current,2020-11-14,Active,485
+1751,Fixed Deposit,2023-11-27,Active,53
+1752,Fixed Deposit,2017-03-30,Closed,829
+1753,Fixed Deposit,2016-12-12,Active,294
+1754,Current,2017-08-27,Active,518
+1755,Savings,2025-02-23,Inactive,285
+1756,Current,2016-10-31,Active,288
+1757,Current,2018-05-08,Inactive,15
+1758,Fixed Deposit,2022-05-26,Active,179
+1759,Fixed Deposit,2019-12-31,Inactive,675
+1760,Current,2025-08-07,Active,180
+1761,Current,2018-03-20,Inactive,242
+1762,Current,2024-07-27,Active,541
+1763,Savings,2019-12-21,Active,87
+1764,Savings,2018-02-21,Active,842
+1765,Savings,2018-08-04,Inactive,771
+1766,Current,2021-04-27,Inactive,244
+1767,Fixed Deposit,2018-04-10,Active,653
+1768,Savings,2024-03-08,Active,752
+1769,Current,2016-09-28,Active,271
+1770,Savings,2020-12-19,Active,476
+1771,Current,2021-12-08,Active,488
+1772,Fixed Deposit,2023-10-11,Closed,945
+1773,Fixed Deposit,2023-11-14,Active,700
+1774,Fixed Deposit,2023-01-27,Active,269
+1775,Savings,2021-08-03,Active,446
+1776,Savings,2023-08-07,Active,817
+1777,Current,2025-04-22,Active,324
+1778,Fixed Deposit,2016-08-07,Active,43
+1779,Savings,2024-12-06,Closed,653
+1780,Current,2025-09-19,Closed,443
+1781,Fixed Deposit,2023-05-11,Closed,879
+1782,Current,2023-10-27,Active,274
+1783,Savings,2023-03-01,Active,599
+1784,Current,2023-08-22,Active,692
+1785,Fixed Deposit,2017-10-01,Active,689
+1786,Fixed Deposit,2025-04-29,Inactive,533
+1787,Current,2017-06-02,Active,185
+1788,Current,2023-10-08,Active,689
+1789,Savings,2020-07-22,Inactive,13
+1790,Current,2020-07-24,Active,107
+1791,Fixed Deposit,2020-11-22,Active,225
+1792,Fixed Deposit,2019-09-21,Active,198
+1793,Savings,2022-05-25,Active,95
+1794,Savings,2017-10-04,Closed,673
+1795,Savings,2016-09-23,Closed,654
+1796,Savings,2022-03-23,Inactive,123
+1797,Savings,2016-04-18,Inactive,134
+1798,Current,2021-08-27,Active,922
+1799,Fixed Deposit,2022-08-08,Active,991
+1800,Savings,2024-02-23,Inactive,713
+1801,Savings,2017-05-24,Active,479
+1802,Fixed Deposit,2025-02-24,Closed,655
+1803,Current,2023-05-29,Closed,284
+1804,Current,2019-04-23,Active,684
+1805,Current,2023-02-20,Active,800
+1806,Savings,2018-05-29,Active,64
+1807,Current,2024-05-12,Active,62
+1808,Current,2017-04-13,Closed,272
+1809,Savings,2019-03-07,Active,504
+1810,Savings,2016-12-22,Active,183
+1811,Fixed Deposit,2017-11-29,Active,148
+1812,Fixed Deposit,2024-06-08,Inactive,224
+1813,Fixed Deposit,2021-01-26,Active,935
+1814,Current,2024-12-17,Inactive,106
+1815,Savings,2021-08-29,Active,586
+1816,Fixed Deposit,2025-08-10,Active,457
+1817,Savings,2017-02-21,Inactive,153
+1818,Fixed Deposit,2022-10-14,Active,956
+1819,Savings,2025-02-01,Active,273
+1820,Savings,2017-05-08,Inactive,927
+1821,Current,2021-01-04,Active,528
+1822,Fixed Deposit,2019-08-22,Closed,503
+1823,Current,2019-07-02,Active,865
+1824,Fixed Deposit,2021-08-07,Inactive,805
+1825,Savings,2022-01-15,Active,4
+1826,Current,2018-01-21,Closed,838
+1827,Current,2023-05-31,Active,549
+1828,Current,2021-08-16,Active,311
+1829,Current,2016-06-12,Active,982
+1830,Fixed Deposit,2023-09-20,Active,548
+1831,Current,2018-02-09,Active,471
+1832,Current,2019-12-18,Active,181
+1833,Fixed Deposit,2020-11-09,Active,394
+1834,Fixed Deposit,2025-10-15,Active,713
+1835,Current,2023-06-24,Inactive,646
+1836,Fixed Deposit,2024-01-07,Active,87
+1837,Fixed Deposit,2017-03-30,Active,195
+1838,Savings,2022-06-27,Active,26
+1839,Fixed Deposit,2023-09-11,Closed,245
+1840,Current,2025-08-30,Active,812
+1841,Fixed Deposit,2025-04-22,Active,512
+1842,Fixed Deposit,2023-03-04,Closed,832
+1843,Current,2023-10-07,Closed,17
+1844,Savings,2023-01-24,Active,346
+1845,Fixed Deposit,2021-02-28,Active,122
+1846,Savings,2025-05-16,Inactive,684
+1847,Fixed Deposit,2018-11-30,Active,695
+1848,Fixed Deposit,2021-07-06,Active,594
+1849,Savings,2018-10-30,Closed,38
+1850,Fixed Deposit,2018-11-23,Active,670
+1851,Savings,2022-11-22,Active,941
+1852,Fixed Deposit,2018-03-18,Active,719
+1853,Fixed Deposit,2018-10-17,Active,177
+1854,Fixed Deposit,2019-12-27,Active,315
+1855,Savings,2016-03-13,Active,175
+1856,Fixed Deposit,2021-07-18,Active,838
+1857,Savings,2022-01-14,Active,610
+1858,Fixed Deposit,2020-03-01,Active,824
+1859,Savings,2025-01-01,Active,831
+1860,Fixed Deposit,2018-08-03,Active,333
+1861,Savings,2016-11-04,Closed,590
+1862,Fixed Deposit,2017-08-01,Active,857
+1863,Savings,2024-10-14,Inactive,608
+1864,Savings,2016-10-23,Active,124
+1865,Current,2016-07-03,Active,426
+1866,Savings,2022-04-26,Active,567
+1867,Savings,2025-01-25,Active,948
+1868,Fixed Deposit,2017-10-28,Active,103
+1869,Fixed Deposit,2020-03-30,Active,797
+1870,Savings,2022-07-19,Active,499
+1871,Savings,2023-04-05,Active,184
+1872,Savings,2018-07-23,Inactive,608
+1873,Current,2024-09-10,Active,827
+1874,Current,2024-12-11,Active,212
+1875,Savings,2023-02-21,Active,536
+1876,Current,2022-04-26,Active,961
+1877,Savings,2024-07-17,Active,39
+1878,Fixed Deposit,2018-04-15,Active,512
+1879,Fixed Deposit,2020-06-14,Closed,643
+1880,Current,2024-03-06,Active,5
+1881,Fixed Deposit,2022-04-18,Active,121
+1882,Fixed Deposit,2017-12-04,Closed,634
+1883,Current,2019-06-17,Inactive,553
+1884,Fixed Deposit,2017-08-23,Active,789
+1885,Fixed Deposit,2022-12-14,Active,284
+1886,Savings,2022-12-21,Active,816
+1887,Savings,2025-07-15,Active,992
+1888,Current,2019-10-26,Active,164
+1889,Fixed Deposit,2024-10-29,Closed,56
+1890,Fixed Deposit,2021-08-16,Active,215
+1891,Current,2018-02-11,Active,632
+1892,Current,2021-04-21,Active,759
+1893,Savings,2024-09-04,Closed,181
+1894,Savings,2020-02-10,Inactive,497
+1895,Fixed Deposit,2019-01-08,Active,917
+1896,Savings,2022-09-13,Inactive,607
+1897,Fixed Deposit,2023-08-11,Active,204
+1898,Fixed Deposit,2018-04-02,Active,334
+1899,Savings,2017-04-12,Inactive,334
+1900,Savings,2016-07-04,Active,756
+1901,Current,2024-05-07,Inactive,385
+1902,Savings,2020-07-27,Active,600
+1903,Current,2017-12-17,Active,447
+1904,Savings,2019-07-11,Active,625
+1905,Current,2025-05-10,Active,383
+1906,Savings,2017-02-02,Active,199
+1907,Fixed Deposit,2016-08-22,Active,277
+1908,Savings,2019-11-02,Active,33
+1909,Fixed Deposit,2017-01-23,Active,288
+1910,Savings,2020-01-15,Active,477
+1911,Current,2021-10-21,Active,779
+1912,Current,2024-09-04,Active,303
+1913,Fixed Deposit,2022-12-26,Active,814
+1914,Fixed Deposit,2020-01-01,Closed,928
+1915,Savings,2022-11-17,Active,567
+1916,Savings,2021-08-06,Active,878
+1917,Fixed Deposit,2019-03-16,Active,222
+1918,Fixed Deposit,2025-01-28,Active,474
+1919,Current,2025-02-23,Active,439
+1920,Fixed Deposit,2023-03-02,Inactive,254
+1921,Current,2025-02-24,Active,228
+1922,Fixed Deposit,2024-08-31,Closed,936
+1923,Fixed Deposit,2025-04-12,Inactive,428
+1924,Savings,2024-07-07,Active,482
+1925,Fixed Deposit,2023-06-27,Inactive,35
+1926,Current,2020-02-28,Active,491
+1927,Fixed Deposit,2023-07-09,Inactive,464
+1928,Current,2022-09-18,Active,572
+1929,Savings,2022-12-18,Active,417
+1930,Savings,2020-06-02,Active,303
+1931,Savings,2018-06-20,Active,93
+1932,Savings,2017-10-10,Active,313
+1933,Savings,2023-04-04,Inactive,879
+1934,Fixed Deposit,2019-08-23,Inactive,25
+1935,Current,2018-05-16,Active,142
+1936,Fixed Deposit,2023-09-01,Active,809
+1937,Current,2025-06-04,Active,721
+1938,Fixed Deposit,2022-01-31,Active,643
+1939,Savings,2025-08-11,Active,708
+1940,Current,2019-11-06,Active,304
+1941,Current,2024-09-21,Inactive,715
+1942,Fixed Deposit,2025-09-24,Active,814
+1943,Savings,2020-11-24,Inactive,83
+1944,Fixed Deposit,2022-07-21,Inactive,754
+1945,Savings,2025-08-24,Active,932
+1946,Fixed Deposit,2025-08-29,Active,53
+1947,Savings,2023-01-07,Active,477
+1948,Fixed Deposit,2024-06-29,Active,376
+1949,Savings,2018-12-20,Active,722
+1950,Savings,2020-08-19,Active,793
+1951,Savings,2017-09-23,Active,343
+1952,Savings,2025-08-04,Active,665
+1953,Current,2016-03-11,Inactive,771
+1954,Fixed Deposit,2020-02-28,Inactive,720
+1955,Savings,2021-01-19,Inactive,780
+1956,Savings,2023-07-19,Active,920
+1957,Current,2020-09-03,Active,434
+1958,Current,2026-02-14,Active,382
+1959,Current,2018-04-18,Active,514
+1960,Fixed Deposit,2021-11-23,Inactive,482
+1961,Fixed Deposit,2019-06-10,Active,846
+1962,Fixed Deposit,2019-08-24,Inactive,463
+1963,Fixed Deposit,2024-02-14,Active,690
+1964,Fixed Deposit,2017-09-30,Inactive,964
+1965,Savings,2021-03-13,Active,906
+1966,Current,2020-07-11,Active,401
+1967,Savings,2025-10-07,Active,980
+1968,Savings,2021-07-03,Active,283
+1969,Savings,2022-12-20,Active,509
+1970,Savings,2021-11-18,Inactive,534
+1971,Fixed Deposit,2018-04-30,Active,427
+1972,Fixed Deposit,2021-07-04,Active,136
+1973,Current,2019-06-01,Active,455
+1974,Fixed Deposit,2023-09-03,Active,299
+1975,Savings,2025-04-01,Active,893
+1976,Savings,2024-02-14,Inactive,533
+1977,Fixed Deposit,2021-09-27,Active,593
+1978,Current,2016-10-06,Active,806
+1979,Current,2022-07-08,Active,682
+1980,Fixed Deposit,2023-05-25,Active,562
+1981,Current,2019-02-24,Active,581
+1982,Savings,2017-07-16,Inactive,314
+1983,Savings,2025-04-03,Inactive,233
+1984,Current,2018-01-31,Active,296
+1985,Savings,2021-02-02,Active,292
+1986,Current,2020-05-08,Closed,634
+1987,Savings,2025-07-07,Inactive,293
+1988,Savings,2022-02-20,Closed,860
+1989,Fixed Deposit,2023-05-11,Active,683
+1990,Savings,2017-04-15,Active,120
+1991,Savings,2020-09-04,Closed,589
+1992,Savings,2018-02-24,Active,379
+1993,Savings,2025-02-23,Active,725
+1994,Savings,2018-07-01,Active,353
+1995,Savings,2024-09-18,Active,553
+1996,Savings,2017-12-09,Active,125
+1997,Savings,2017-04-10,Active,512
+1998,Savings,2020-09-16,Closed,951
+1999,Current,2017-07-31,Active,994
+2000,Fixed Deposit,2024-12-28,Active,520
